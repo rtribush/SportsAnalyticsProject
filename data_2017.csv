@@ -1,0 +1,1231 @@
+"gameID","home","away","OT","SO"
+1,"Winnipeg Jets","Toronto Maple Leafs",0,0
+2,"Pittsburgh Penguins","St. Louis Blues",1,0
+3,"Edmonton Oilers","Calgary Flames",0,0
+4,"San Jose Sharks","Philadelphia Flyers",0,0
+5,"Boston Bruins","Nashville Predators",0,0
+6,"Buffalo Sabres","Montréal Canadiens",1,1
+7,"New York Rangers","Colorado Avalanche",0,0
+8,"Ottawa Senators","Washington Capitals",1,1
+9,"Detroit Red Wings","Minnesota Wild",0,0
+10,"Chicago Blackhawks","Pittsburgh Penguins",0,0
+11,"Anaheim Ducks","Arizona Coyotes",0,0
+12,"Los Angeles Kings","Philadelphia Flyers",0,0
+13,"Columbus Blue Jackets","New York Islanders",0,0
+14,"Tampa Bay Lightning","Florida Panthers",0,0
+15,"Dallas Stars","Vegas Golden Knights",0,0
+16,"Toronto Maple Leafs","New York Rangers",0,0
+17,"Ottawa Senators","Detroit Red Wings",1,1
+18,"Florida Panthers","Tampa Bay Lightning",0,0
+19,"New Jersey Devils","Colorado Avalanche",0,0
+20,"New York Islanders","Buffalo Sabres",0,0
+21,"Pittsburgh Penguins","Nashville Predators",0,0
+22,"Washington Capitals","Montréal Canadiens",0,0
+23,"Carolina Hurricanes","Minnesota Wild",1,1
+24,"St. Louis Blues","Dallas Stars",0,0
+25,"Chicago Blackhawks","Columbus Blue Jackets",0,0
+26,"Arizona Coyotes","Vegas Golden Knights",1,0
+27,"Calgary Flames","Winnipeg Jets",0,0
+28,"Vancouver Canucks","Edmonton Oilers",0,0
+29,"Anaheim Ducks","Philadelphia Flyers",1,0
+30,"San Jose Sharks","Los Angeles Kings",0,0
+31,"New York Rangers","Montréal Canadiens",0,0
+32,"Boston Bruins","Colorado Avalanche",0,0
+33,"New York Islanders","St. Louis Blues",1,1
+34,"Buffalo Sabres","New Jersey Devils",0,0
+35,"Toronto Maple Leafs","Chicago Blackhawks",1,0
+36,"Tampa Bay Lightning","Washington Capitals",1,0
+37,"Edmonton Oilers","Winnipeg Jets",0,0
+38,"Anaheim Ducks","Calgary Flames",0,0
+39,"New York Rangers","St. Louis Blues",0,0
+40,"Carolina Hurricanes","Columbus Blue Jackets",1,0
+41,"Montréal Canadiens","Chicago Blackhawks",0,0
+42,"Nashville Predators","Philadelphia Flyers",0,0
+43,"Dallas Stars","Detroit Red Wings",0,0
+44,"Vancouver Canucks","Ottawa Senators",1,1
+45,"Vegas Golden Knights","Arizona Coyotes",0,0
+46,"Toronto Maple Leafs","New Jersey Devils",0,0
+47,"Washington Capitals","Pittsburgh Penguins",0,0
+48,"Colorado Avalanche","Boston Bruins",0,0
+49,"Anaheim Ducks","New York Islanders",0,0
+50,"Los Angeles Kings","Calgary Flames",1,0
+51,"Tampa Bay Lightning","Pittsburgh Penguins",0,0
+52,"Florida Panthers","St. Louis Blues",0,0
+53,"Nashville Predators","Dallas Stars",0,0
+54,"Chicago Blackhawks","Minnesota Wild",0,0
+55,"Vancouver Canucks","Winnipeg Jets",0,0
+56,"Arizona Coyotes","Detroit Red Wings",0,0
+57,"San Jose Sharks","Buffalo Sabres",0,0
+58,"New Jersey Devils","Washington Capitals",0,0
+59,"Columbus Blue Jackets","New York Rangers",0,0
+60,"Colorado Avalanche","Anaheim Ducks",0,0
+61,"Calgary Flames","Ottawa Senators",0,0
+62,"Vegas Golden Knights","Detroit Red Wings",0,0
+63,"Montréal Canadiens","Toronto Maple Leafs",1,0
+64,"Tampa Bay Lightning","St. Louis Blues",0,0
+65,"New York Rangers","New Jersey Devils",0,0
+66,"Philadelphia Flyers","Washington Capitals",0,0
+67,"Pittsburgh Penguins","Florida Panthers",0,0
+68,"Winnipeg Jets","Carolina Hurricanes",0,0
+69,"Dallas Stars","Colorado Avalanche",0,0
+70,"Minnesota Wild","Columbus Blue Jackets",1,0
+71,"Chicago Blackhawks","Nashville Predators",1,0
+72,"Arizona Coyotes","Boston Bruins",0,0
+73,"Edmonton Oilers","Ottawa Senators",0,0
+74,"Vancouver Canucks","Calgary Flames",0,0
+75,"Los Angeles Kings","Buffalo Sabres",0,0
+76,"San Jose Sharks","New York Islanders",0,0
+77,"Vegas Golden Knights","Boston Bruins",0,0
+78,"Anaheim Ducks","Buffalo Sabres",0,0
+79,"Los Angeles Kings","New York Islanders",0,0
+80,"Detroit Red Wings","Tampa Bay Lightning",0,0
+81,"New Jersey Devils","Tampa Bay Lightning",1,1
+82,"New York Rangers","Pittsburgh Penguins",1,0
+83,"Philadelphia Flyers","Florida Panthers",0,0
+84,"Washington Capitals","Toronto Maple Leafs",0,0
+85,"Ottawa Senators","Vancouver Canucks",0,0
+86,"Nashville Predators","Colorado Avalanche",0,0
+87,"Winnipeg Jets","Columbus Blue Jackets",0,0
+88,"Dallas Stars","Arizona Coyotes",0,0
+89,"Edmonton Oilers","Carolina Hurricanes",0,0
+90,"Vegas Golden Knights","Buffalo Sabres",1,0
+91,"San Jose Sharks","Montréal Canadiens",0,0
+92,"Toronto Maple Leafs","Detroit Red Wings",0,0
+93,"St. Louis Blues","Chicago Blackhawks",0,0
+94,"Los Angeles Kings","Montréal Canadiens",0,0
+95,"Boston Bruins","Vancouver Canucks",0,0
+96,"New York Rangers","New York Islanders",1,1
+97,"Philadelphia Flyers","Nashville Predators",0,0
+98,"Columbus Blue Jackets","Tampa Bay Lightning",0,0
+99,"Ottawa Senators","New Jersey Devils",1,0
+100,"Chicago Blackhawks","Edmonton Oilers",1,0
+101,"Colorado Avalanche","St. Louis Blues",0,0
+102,"Calgary Flames","Carolina Hurricanes",0,0
+103,"Arizona Coyotes","Dallas Stars",0,0
+104,"Buffalo Sabres","Vancouver Canucks",0,0
+105,"New Jersey Devils","San Jose Sharks",0,0
+106,"Detroit Red Wings","Washington Capitals",1,0
+107,"Florida Panthers","Pittsburgh Penguins",0,0
+108,"Winnipeg Jets","Minnesota Wild",0,0
+109,"Anaheim Ducks","Montréal Canadiens",0,0
+110,"New York Rangers","Nashville Predators",0,0
+111,"Philadelphia Flyers","Edmonton Oilers",0,0
+112,"Boston Bruins","Buffalo Sabres",1,0
+113,"Ottawa Senators","Toronto Maple Leafs",0,0
+114,"Tampa Bay Lightning","Pittsburgh Penguins",0,0
+115,"New York Islanders","San Jose Sharks",0,0
+116,"Washington Capitals","Florida Panthers",0,0
+117,"Columbus Blue Jackets","Los Angeles Kings",0,0
+118,"Dallas Stars","Carolina Hurricanes",0,0
+119,"Arizona Coyotes","Chicago Blackhawks",0,0
+120,"Calgary Flames","Minnesota Wild",0,0
+121,"Vegas Golden Knights","St. Louis Blues",1,0
+122,"Detroit Red Wings","Vancouver Canucks",0,0
+123,"Toronto Maple Leafs","Los Angeles Kings",0,0
+124,"New York Rangers","San Jose Sharks",0,0
+125,"Buffalo Sabres","Detroit Red Wings",0,0
+126,"New York Islanders","Arizona Coyotes",0,0
+127,"Philadelphia Flyers","Anaheim Ducks",0,0
+128,"Pittsburgh Penguins","Edmonton Oilers",1,0
+129,"Carolina Hurricanes","Tampa Bay Lightning",0,0
+130,"Montréal Canadiens","Florida Panthers",0,0
+131,"Ottawa Senators","Los Angeles Kings",1,1
+132,"Nashville Predators","Calgary Flames",1,1
+133,"Minnesota Wild","Vancouver Canucks",0,0
+134,"Colorado Avalanche","Dallas Stars",0,0
+135,"Vegas Golden Knights","Chicago Blackhawks",0,0
+136,"Columbus Blue Jackets","Buffalo Sabres",0,0
+137,"St. Louis Blues","Calgary Flames",0,0
+138,"Boston Bruins","San Jose Sharks",0,0
+139,"Toronto Maple Leafs","Carolina Hurricanes",0,0
+140,"New York Rangers","Arizona Coyotes",0,0
+141,"Pittsburgh Penguins","Winnipeg Jets",1,0
+142,"Montréal Canadiens","Los Angeles Kings",0,0
+143,"Ottawa Senators","Philadelphia Flyers",0,0
+144,"Tampa Bay Lightning","Detroit Red Wings",0,0
+145,"Florida Panthers","Anaheim Ducks",0,0
+146,"Minnesota Wild","New York Islanders",0,0
+147,"Edmonton Oilers","Dallas Stars",0,0
+148,"Vancouver Canucks","Washington Capitals",0,0
+149,"Vegas Golden Knights","Colorado Avalanche",0,0
+150,"New Jersey Devils","Ottawa Senators",1,1
+151,"Columbus Blue Jackets","Winnipeg Jets",1,0
+152,"Carolina Hurricanes","St. Louis Blues",0,0
+153,"Chicago Blackhawks","Nashville Predators",0,0
+154,"Calgary Flames","Dallas Stars",0,0
+155,"Buffalo Sabres","San Jose Sharks",0,0
+156,"Boston Bruins","Los Angeles Kings",1,0
+157,"Toronto Maple Leafs","Philadelphia Flyers",0,0
+158,"Montréal Canadiens","New York Rangers",0,0
+159,"Tampa Bay Lightning","Anaheim Ducks",0,0
+160,"Florida Panthers","Detroit Red Wings",1,1
+161,"New Jersey Devils","Arizona Coyotes",0,0
+162,"St. Louis Blues","Columbus Blue Jackets",0,0
+163,"Nashville Predators","New York Islanders",0,0
+164,"Minnesota Wild","Pittsburgh Penguins",0,0
+165,"Colorado Avalanche","Chicago Blackhawks",0,0
+166,"Edmonton Oilers","Washington Capitals",0,0
+167,"Carolina Hurricanes","Anaheim Ducks",1,1
+168,"Winnipeg Jets","Pittsburgh Penguins",0,0
+169,"Calgary Flames","Washington Capitals",0,0
+170,"New York Islanders","Vegas Golden Knights",0,0
+171,"Philadelphia Flyers","Arizona Coyotes",1,0
+172,"Columbus Blue Jackets","Boston Bruins",1,1
+173,"Ottawa Senators","Montréal Canadiens",0,0
+174,"Florida Panthers","Tampa Bay Lightning",0,0
+175,"St. Louis Blues","Los Angeles Kings",0,0
+176,"Vancouver Canucks","Dallas Stars",1,0
+177,"San Jose Sharks","Toronto Maple Leafs",0,0
+178,"New York Rangers","Vegas Golden Knights",0,0
+179,"Detroit Red Wings","Arizona Coyotes",0,0
+180,"Minnesota Wild","Winnipeg Jets",0,0
+181,"Chicago Blackhawks","Philadelphia Flyers",0,0
+182,"Edmonton Oilers","Pittsburgh Penguins",0,0
+183,"Vancouver Canucks","New Jersey Devils",0,0
+184,"Anaheim Ducks","Toronto Maple Leafs",0,0
+185,"San Jose Sharks","Nashville Predators",0,0
+186,"Boston Bruins","Vegas Golden Knights",0,0
+187,"Washington Capitals","New York Islanders",0,0
+188,"Ottawa Senators","Detroit Red Wings",0,0
+189,"Tampa Bay Lightning","New York Rangers",1,0
+190,"Florida Panthers","Columbus Blue Jackets",0,0
+191,"St. Louis Blues","Philadelphia Flyers",0,0
+192,"Minnesota Wild","Montréal Canadiens",0,0
+193,"Winnipeg Jets","Dallas Stars",0,0
+194,"Colorado Avalanche","Carolina Hurricanes",0,0
+195,"Calgary Flames","Pittsburgh Penguins",1,0
+196,"Arizona Coyotes","Buffalo Sabres",0,0
+197,"Los Angeles Kings","Toronto Maple Leafs",0,0
+198,"Edmonton Oilers","New Jersey Devils",0,0
+199,"Anaheim Ducks","Nashville Predators",0,0
+200,"Ottawa Senators","Vegas Golden Knights",0,0
+201,"Boston Bruins","Washington Capitals",0,0
+202,"Tampa Bay Lightning","Columbus Blue Jackets",1,1
+203,"Florida Panthers","New York Rangers",1,0
+204,"Philadelphia Flyers","Colorado Avalanche",1,1
+205,"St. Louis Blues","Toronto Maple Leafs",0,0
+206,"Winnipeg Jets","Montréal Canadiens",1,0
+207,"Dallas Stars","Buffalo Sabres",0,0
+208,"Minnesota Wild","Chicago Blackhawks",0,0
+209,"Arizona Coyotes","Carolina Hurricanes",1,1
+210,"Vancouver Canucks","Pittsburgh Penguins",0,0
+211,"Los Angeles Kings","Nashville Predators",1,0
+212,"San Jose Sharks","Anaheim Ducks",1,1
+213,"Edmonton Oilers","Detroit Red Wings",0,0
+214,"New York Islanders","Colorado Avalanche",0,0
+215,"Chicago Blackhawks","Montréal Canadiens",0,0
+216,"Calgary Flames","New Jersey Devils",1,1
+217,"Boston Bruins","Minnesota Wild",0,0
+218,"Toronto Maple Leafs","Vegas Golden Knights",1,1
+219,"New York Rangers","Columbus Blue Jackets",0,0
+220,"Washington Capitals","Arizona Coyotes",1,0
+221,"Dallas Stars","Winnipeg Jets",0,0
+222,"Vancouver Canucks","Detroit Red Wings",0,0
+223,"Buffalo Sabres","Washington Capitals",0,0
+224,"New Jersey Devils","St. Louis Blues",0,0
+225,"New York Islanders","Edmonton Oilers",1,0
+226,"Pittsburgh Penguins","Arizona Coyotes",0,0
+227,"Carolina Hurricanes","Florida Panthers",0,0
+228,"Columbus Blue Jackets","Nashville Predators",0,0
+229,"Montréal Canadiens","Vegas Golden Knights",0,0
+230,"Calgary Flames","Vancouver Canucks",0,0
+231,"Anaheim Ducks","Los Angeles Kings",1,0
+232,"Toronto Maple Leafs","Minnesota Wild",0,0
+233,"New York Rangers","Boston Bruins",0,0
+234,"San Jose Sharks","Tampa Bay Lightning",0,0
+235,"New Jersey Devils","Edmonton Oilers",1,0
+236,"Philadelphia Flyers","Chicago Blackhawks",0,0
+237,"Montréal Canadiens","Minnesota Wild",0,0
+238,"St. Louis Blues","Arizona Coyotes",1,1
+239,"Calgary Flames","Detroit Red Wings",0,0
+240,"Anaheim Ducks","Vancouver Canucks",0,0
+241,"Los Angeles Kings","Tampa Bay Lightning",0,0
+242,"Buffalo Sabres","Florida Panthers",0,0
+243,"Toronto Maple Leafs","Boston Bruins",1,0
+244,"Washington Capitals","Pittsburgh Penguins",0,0
+245,"Columbus Blue Jackets","Carolina Hurricanes",0,0
+246,"Dallas Stars","New York Islanders",0,0
+247,"Colorado Avalanche","Ottawa Senators",1,0
+248,"Vegas Golden Knights","Winnipeg Jets",0,0
+249,"New York Rangers","Edmonton Oilers",0,0
+250,"Boston Bruins","Toronto Maple Leafs",0,0
+251,"Montréal Canadiens","Buffalo Sabres",1,0
+252,"Ottawa Senators","Colorado Avalanche",0,0
+253,"Detroit Red Wings","Columbus Blue Jackets",1,1
+254,"New Jersey Devils","Florida Panthers",0,0
+255,"Philadelphia Flyers","Minnesota Wild",0,0
+256,"Carolina Hurricanes","Chicago Blackhawks",1,0
+257,"St. Louis Blues","New York Islanders",0,0
+258,"Nashville Predators","Pittsburgh Penguins",1,1
+259,"Arizona Coyotes","Winnipeg Jets",0,0
+260,"San Jose Sharks","Vancouver Canucks",0,0
+261,"Washington Capitals","Edmonton Oilers",1,1
+262,"Chicago Blackhawks","New Jersey Devils",0,0
+263,"Anaheim Ducks","Tampa Bay Lightning",0,0
+264,"Los Angeles Kings","San Jose Sharks",0,0
+265,"Carolina Hurricanes","Dallas Stars",0,0
+266,"Calgary Flames","St. Louis Blues",0,0
+267,"Pittsburgh Penguins","Buffalo Sabres",1,0
+268,"Montréal Canadiens","Columbus Blue Jackets",1,0
+269,"Florida Panthers","Dallas Stars",1,1
+270,"Nashville Predators","Washington Capitals",0,0
+271,"Minnesota Wild","Philadelphia Flyers",0,0
+272,"Winnipeg Jets","Arizona Coyotes",0,0
+273,"Edmonton Oilers","Vegas Golden Knights",0,0
+274,"Los Angeles Kings","Vancouver Canucks",0,0
+275,"Detroit Red Wings","Calgary Flames",0,0
+276,"Chicago Blackhawks","New York Rangers",0,0
+277,"Anaheim Ducks","Boston Bruins",0,0
+278,"Toronto Maple Leafs","New Jersey Devils",1,0
+279,"New York Islanders","Carolina Hurricanes",0,0
+280,"Montréal Canadiens","Arizona Coyotes",0,0
+281,"Ottawa Senators","Pittsburgh Penguins",0,0
+282,"Tampa Bay Lightning","Dallas Stars",0,0
+283,"Minnesota Wild","Nashville Predators",0,0
+284,"Winnipeg Jets","Philadelphia Flyers",1,1
+285,"Colorado Avalanche","Washington Capitals",0,0
+286,"Edmonton Oilers","St. Louis Blues",0,0
+287,"Vancouver Canucks","Vegas Golden Knights",0,0
+288,"Los Angeles Kings","Boston Bruins",0,0
+289,"San Jose Sharks","Florida Panthers",0,0
+290,"Columbus Blue Jackets","New York Rangers",0,0
+291,"Detroit Red Wings","Buffalo Sabres",0,0
+292,"Philadelphia Flyers","Calgary Flames",1,0
+293,"Ottawa Senators","Arizona Coyotes",1,0
+294,"Dallas Stars","Edmonton Oilers",0,0
+295,"Winnipeg Jets","New Jersey Devils",0,0
+296,"Los Angeles Kings","Florida Panthers",0,0
+297,"Buffalo Sabres","Carolina Hurricanes",0,0
+298,"Montréal Canadiens","Toronto Maple Leafs",0,0
+299,"Tampa Bay Lightning","New York Islanders",0,0
+300,"Pittsburgh Penguins","Chicago Blackhawks",0,0
+301,"Washington Capitals","Minnesota Wild",0,0
+302,"Nashville Predators","Colorado Avalanche",0,0
+303,"Vancouver Canucks","St. Louis Blues",1,0
+304,"San Jose Sharks","Boston Bruins",0,0
+305,"Carolina Hurricanes","New York Islanders",0,0
+306,"Detroit Red Wings","Colorado Avalanche",1,0
+307,"New York Rangers","Ottawa Senators",0,0
+308,"Vegas Golden Knights","Los Angeles Kings",0,0
+309,"Anaheim Ducks","Florida Panthers",0,0
+310,"Buffalo Sabres","Columbus Blue Jackets",0,0
+311,"Toronto Maple Leafs","Arizona Coyotes",0,0
+312,"Washington Capitals","Calgary Flames",0,0
+313,"Nashville Predators","Winnipeg Jets",0,0
+314,"Minnesota Wild","New Jersey Devils",1,0
+315,"San Jose Sharks","Anaheim Ducks",1,1
+316,"Philadelphia Flyers","Vancouver Canucks",0,0
+317,"St. Louis Blues","Edmonton Oilers",0,0
+318,"Dallas Stars","Montréal Canadiens",0,0
+319,"Buffalo Sabres","Minnesota Wild",0,0
+320,"Detroit Red Wings","Edmonton Oilers",0,0
+321,"Florida Panthers","Toronto Maple Leafs",1,1
+322,"New Jersey Devils","Boston Bruins",1,1
+323,"New York Islanders","Philadelphia Flyers",1,0
+324,"Pittsburgh Penguins","Vancouver Canucks",0,0
+325,"Washington Capitals","Ottawa Senators",0,0
+326,"Carolina Hurricanes","New York Rangers",0,0
+327,"Columbus Blue Jackets","Calgary Flames",1,0
+328,"Tampa Bay Lightning","Chicago Blackhawks",1,0
+329,"Nashville Predators","Montréal Canadiens",1,1
+330,"Colorado Avalanche","Dallas Stars",0,0
+331,"Arizona Coyotes","San Jose Sharks",0,0
+332,"Anaheim Ducks","Vegas Golden Knights",0,0
+333,"Los Angeles Kings","Winnipeg Jets",0,0
+334,"Boston Bruins","Pittsburgh Penguins",0,0
+335,"Philadelphia Flyers","New York Islanders",1,0
+336,"Minnesota Wild","Colorado Avalanche",1,1
+337,"Anaheim Ducks","Winnipeg Jets",0,0
+338,"Washington Capitals","Tampa Bay Lightning",0,0
+339,"Buffalo Sabres","Edmonton Oilers",0,0
+340,"New Jersey Devils","Vancouver Canucks",0,0
+341,"New York Rangers","Detroit Red Wings",1,0
+342,"Columbus Blue Jackets","Ottawa Senators",0,0
+343,"Carolina Hurricanes","Toronto Maple Leafs",0,0
+344,"St. Louis Blues","Nashville Predators",0,0
+345,"Dallas Stars","Calgary Flames",0,0
+346,"Arizona Coyotes","Los Angeles Kings",1,0
+347,"Vegas Golden Knights","San Jose Sharks",1,0
+348,"Toronto Maple Leafs","Washington Capitals",0,0
+349,"Montréal Canadiens","Buffalo Sabres",0,0
+350,"Ottawa Senators","New York Islanders",0,0
+351,"Detroit Red Wings","New Jersey Devils",1,0
+352,"Florida Panthers","Chicago Blackhawks",0,0
+353,"Pittsburgh Penguins","Tampa Bay Lightning",0,0
+354,"St. Louis Blues","Minnesota Wild",0,0
+355,"Arizona Coyotes","Vegas Golden Knights",0,0
+356,"Colorado Avalanche","Calgary Flames",0,0
+357,"San Jose Sharks","Winnipeg Jets",0,0
+358,"Los Angeles Kings","Anaheim Ducks",1,1
+359,"Carolina Hurricanes","Nashville Predators",1,1
+360,"New York Rangers","Vancouver Canucks",1,1
+361,"Boston Bruins","Edmonton Oilers",0,0
+362,"New Jersey Devils","Florida Panthers",0,0
+363,"Pittsburgh Penguins","Philadelphia Flyers",1,0
+364,"Montréal Canadiens","Columbus Blue Jackets",0,0
+365,"Winnipeg Jets","Minnesota Wild",0,0
+366,"Chicago Blackhawks","Anaheim Ducks",0,0
+367,"Buffalo Sabres","Tampa Bay Lightning",0,0
+368,"New York Islanders","Vancouver Canucks",0,0
+369,"New York Rangers","Florida Panthers",0,0
+370,"Philadelphia Flyers","San Jose Sharks",0,0
+371,"Columbus Blue Jackets","Carolina Hurricanes",1,1
+372,"Detroit Red Wings","Los Angeles Kings",0,0
+373,"Nashville Predators","Chicago Blackhawks",0,0
+374,"Calgary Flames","Toronto Maple Leafs",0,0
+375,"Edmonton Oilers","Arizona Coyotes",1,0
+376,"Vegas Golden Knights","Dallas Stars",0,0
+377,"Boston Bruins","Tampa Bay Lightning",0,0
+378,"Montréal Canadiens","Ottawa Senators",0,0
+379,"St. Louis Blues","Anaheim Ducks",0,0
+380,"Colorado Avalanche","Winnipeg Jets",1,0
+381,"Washington Capitals","Los Angeles Kings",0,0
+382,"Detroit Red Wings","Montréal Canadiens",0,0
+383,"Nashville Predators","Vancouver Canucks",0,0
+384,"Minnesota Wild","Vegas Golden Knights",0,0
+385,"Chicago Blackhawks","Dallas Stars",1,0
+386,"Calgary Flames","Arizona Coyotes",0,0
+387,"Edmonton Oilers","Toronto Maple Leafs",0,0
+388,"Buffalo Sabres","Pittsburgh Penguins",0,0
+389,"New York Islanders","Ottawa Senators",0,0
+390,"New York Rangers","Carolina Hurricanes",0,0
+391,"Columbus Blue Jackets","Anaheim Ducks",0,0
+392,"Florida Panthers","San Jose Sharks",0,0
+393,"St. Louis Blues","Los Angeles Kings",0,0
+394,"Winnipeg Jets","Vegas Golden Knights",0,0
+395,"Colorado Avalanche","New Jersey Devils",0,0
+396,"Philadelphia Flyers","Boston Bruins",0,0
+397,"Minnesota Wild","St. Louis Blues",1,0
+398,"Montréal Canadiens","Detroit Red Wings",0,0
+399,"Tampa Bay Lightning","San Jose Sharks",0,0
+400,"Pittsburgh Penguins","Buffalo Sabres",0,0
+401,"Washington Capitals","Columbus Blue Jackets",0,0
+402,"Vancouver Canucks","Toronto Maple Leafs",0,0
+403,"Carolina Hurricanes","Florida Panthers",1,0
+404,"Nashville Predators","Anaheim Ducks",1,1
+405,"Arizona Coyotes","New Jersey Devils",0,0
+406,"Dallas Stars","Chicago Blackhawks",1,1
+407,"Calgary Flames","Edmonton Oilers",0,0
+408,"Chicago Blackhawks","Los Angeles Kings",0,0
+409,"Winnipeg Jets","Ottawa Senators",0,0
+410,"Colorado Avalanche","Dallas Stars",0,0
+411,"Vegas Golden Knights","Arizona Coyotes",1,0
+412,"Washington Capitals","San Jose Sharks",0,0
+413,"Florida Panthers","New York Islanders",1,1
+414,"Nashville Predators","Boston Bruins",0,0
+415,"Calgary Flames","Philadelphia Flyers",0,0
+416,"Pittsburgh Penguins","New York Rangers",0,0
+417,"Columbus Blue Jackets","New Jersey Devils",0,0
+418,"Montréal Canadiens","St. Louis Blues",0,0
+419,"Detroit Red Wings","Winnipeg Jets",0,0
+420,"Tampa Bay Lightning","New York Islanders",0,0
+421,"Dallas Stars","Nashville Predators",0,0
+422,"Colorado Avalanche","Buffalo Sabres",0,0
+423,"Vancouver Canucks","Carolina Hurricanes",0,0
+424,"Vegas Golden Knights","Anaheim Ducks",1,1
+425,"Los Angeles Kings","Minnesota Wild",0,0
+426,"Toronto Maple Leafs","Calgary Flames",1,1
+427,"Washington Capitals","Chicago Blackhawks",0,0
+428,"Edmonton Oilers","Philadelphia Flyers",0,0
+429,"Anaheim Ducks","Ottawa Senators",0,0
+430,"Boston Bruins","Arizona Coyotes",0,0
+431,"Pittsburgh Penguins","New York Islanders",1,0
+432,"Montréal Canadiens","Calgary Flames",1,0
+433,"Tampa Bay Lightning","Colorado Avalanche",0,0
+434,"Florida Panthers","Winnipeg Jets",0,0
+435,"St. Louis Blues","Dallas Stars",0,0
+436,"Vancouver Canucks","Philadelphia Flyers",0,0
+437,"Los Angeles Kings","Ottawa Senators",1,0
+438,"San Jose Sharks","Carolina Hurricanes",1,0
+439,"New Jersey Devils","Columbus Blue Jackets",0,0
+440,"Washington Capitals","New York Rangers",0,0
+441,"Nashville Predators","Vegas Golden Knights",1,1
+442,"Chicago Blackhawks","Buffalo Sabres",1,0
+443,"Anaheim Ducks","Minnesota Wild",1,0
+444,"Boston Bruins","New York Islanders",0,0
+445,"Montréal Canadiens","Edmonton Oilers",0,0
+446,"Detroit Red Wings","St. Louis Blues",0,0
+447,"Tampa Bay Lightning","Winnipeg Jets",1,0
+448,"Florida Panthers","Colorado Avalanche",0,0
+449,"New York Rangers","New Jersey Devils",0,0
+450,"Pittsburgh Penguins","Toronto Maple Leafs",0,0
+451,"Columbus Blue Jackets","Arizona Coyotes",0,0
+452,"Dallas Stars","Vegas Golden Knights",0,0
+453,"Calgary Flames","Vancouver Canucks",0,0
+454,"San Jose Sharks","Ottawa Senators",0,0
+455,"Los Angeles Kings","Carolina Hurricanes",1,0
+456,"Toronto Maple Leafs","Edmonton Oilers",0,0
+457,"Chicago Blackhawks","Arizona Coyotes",0,0
+458,"St. Louis Blues","Buffalo Sabres",1,0
+459,"San Jose Sharks","Minnesota Wild",1,0
+460,"New York Islanders","Washington Capitals",0,0
+461,"New York Rangers","Dallas Stars",1,1
+462,"Pittsburgh Penguins","Colorado Avalanche",0,0
+463,"Detroit Red Wings","Florida Panthers",1,0
+464,"Winnipeg Jets","Vancouver Canucks",0,0
+465,"Anaheim Ducks","Carolina Hurricanes",0,0
+466,"Buffalo Sabres","Ottawa Senators",0,0
+467,"New Jersey Devils","Los Angeles Kings",0,0
+468,"Philadelphia Flyers","Toronto Maple Leafs",0,0
+469,"Washington Capitals","Colorado Avalanche",0,0
+470,"Columbus Blue Jackets","Edmonton Oilers",0,0
+471,"St. Louis Blues","Tampa Bay Lightning",0,0
+472,"Minnesota Wild","Calgary Flames",1,1
+473,"Chicago Blackhawks","Florida Panthers",1,0
+474,"Vegas Golden Knights","Carolina Hurricanes",1,1
+475,"Ottawa Senators","New York Rangers",0,0
+476,"New York Islanders","Dallas Stars",0,0
+477,"Detroit Red Wings","Boston Bruins",1,0
+478,"Vancouver Canucks","Nashville Predators",0,0
+479,"Boston Bruins","Washington Capitals",0,0
+480,"Philadelphia Flyers","Buffalo Sabres",0,0
+481,"Columbus Blue Jackets","New York Islanders",0,0
+482,"Montréal Canadiens","New Jersey Devils",1,0
+483,"St. Louis Blues","Anaheim Ducks",0,0
+484,"Minnesota Wild","Toronto Maple Leafs",0,0
+485,"Winnipeg Jets","Chicago Blackhawks",0,0
+486,"Colorado Avalanche","Florida Panthers",0,0
+487,"Calgary Flames","San Jose Sharks",0,0
+488,"Edmonton Oilers","Nashville Predators",0,0
+489,"Arizona Coyotes","Tampa Bay Lightning",0,0
+490,"Vegas Golden Knights","Pittsburgh Penguins",0,0
+491,"Buffalo Sabres","Carolina Hurricanes",1,0
+492,"New Jersey Devils","Dallas Stars",0,0
+493,"New York Rangers","Los Angeles Kings",0,0
+494,"Detroit Red Wings","Toronto Maple Leafs",0,0
+495,"Vancouver Canucks","San Jose Sharks",1,0
+496,"Minnesota Wild","Edmonton Oilers",0,0
+497,"Boston Bruins","New York Rangers",1,0
+498,"Ottawa Senators","Montréal Canadiens",0,0
+499,"New York Islanders","Los Angeles Kings",1,0
+500,"Philadelphia Flyers","Dallas Stars",1,0
+501,"St. Louis Blues","Winnipeg Jets",0,0
+502,"Washington Capitals","Anaheim Ducks",1,0
+503,"Carolina Hurricanes","Columbus Blue Jackets",0,0
+504,"Arizona Coyotes","Pittsburgh Penguins",0,0
+505,"Colorado Avalanche","Tampa Bay Lightning",0,0
+506,"Calgary Flames","Nashville Predators",0,0
+507,"Winnipeg Jets","St. Louis Blues",0,0
+508,"Chicago Blackhawks","Minnesota Wild",0,0
+509,"Vancouver Canucks","Calgary Flames",0,0
+510,"Vegas Golden Knights","Florida Panthers",0,0
+511,"Boston Bruins","Columbus Blue Jackets",0,0
+512,"New Jersey Devils","Anaheim Ducks",0,0
+513,"Philadelphia Flyers","Los Angeles Kings",0,0
+514,"Colorado Avalanche","Pittsburgh Penguins",0,0
+515,"Edmonton Oilers","San Jose Sharks",0,0
+516,"Toronto Maple Leafs","Carolina Hurricanes",0,0
+517,"Buffalo Sabres","Boston Bruins",0,0
+518,"New York Islanders","Detroit Red Wings",0,0
+519,"New York Rangers","Anaheim Ducks",0,0
+520,"Ottawa Senators","Minnesota Wild",0,0
+521,"Nashville Predators","Winnipeg Jets",0,0
+522,"Dallas Stars","Washington Capitals",1,0
+523,"Arizona Coyotes","Florida Panthers",0,0
+524,"Vancouver Canucks","Montréal Canadiens",0,0
+525,"Vegas Golden Knights","Tampa Bay Lightning",0,0
+526,"Columbus Blue Jackets","Toronto Maple Leafs",0,0
+527,"Philadelphia Flyers","Detroit Red Wings",0,0
+528,"Calgary Flames","St. Louis Blues",0,0
+529,"Boston Bruins","Winnipeg Jets",1,1
+530,"New Jersey Devils","New York Rangers",1,1
+531,"New York Islanders","Anaheim Ducks",1,0
+532,"Pittsburgh Penguins","Columbus Blue Jackets",1,1
+533,"Tampa Bay Lightning","Ottawa Senators",1,1
+534,"Nashville Predators","Carolina Hurricanes",0,0
+535,"Dallas Stars","Chicago Blackhawks",0,0
+536,"Edmonton Oilers","St. Louis Blues",0,0
+537,"Los Angeles Kings","Colorado Avalanche",1,0
+538,"San Jose Sharks","Vancouver Canucks",1,0
+539,"Buffalo Sabres","Philadelphia Flyers",0,0
+540,"Florida Panthers","Minnesota Wild",0,0
+541,"Calgary Flames","Montréal Canadiens",0,0
+542,"Arizona Coyotes","Washington Capitals",1,0
+543,"Boston Bruins","Detroit Red Wings",0,0
+544,"New York Islanders","Winnipeg Jets",0,0
+545,"Tampa Bay Lightning","Minnesota Wild",0,0
+546,"Florida Panthers","Ottawa Senators",0,0
+547,"New Jersey Devils","Chicago Blackhawks",0,0
+548,"New York Rangers","Toronto Maple Leafs",0,0
+549,"Pittsburgh Penguins","Anaheim Ducks",0,0
+550,"Carolina Hurricanes","Buffalo Sabres",0,0
+551,"Columbus Blue Jackets","Philadelphia Flyers",1,1
+552,"Edmonton Oilers","Montréal Canadiens",0,0
+553,"Dallas Stars","Nashville Predators",1,1
+554,"Arizona Coyotes","Colorado Avalanche",0,0
+555,"Vegas Golden Knights","Washington Capitals",0,0
+556,"Vancouver Canucks","St. Louis Blues",0,0
+557,"San Jose Sharks","Los Angeles Kings",0,0
+558,"Boston Bruins","Ottawa Senators",0,0
+559,"New Jersey Devils","Detroit Red Wings",0,0
+560,"New York Islanders","Buffalo Sabres",1,0
+561,"New York Rangers","Washington Capitals",1,1
+562,"Pittsburgh Penguins","Columbus Blue Jackets",1,1
+563,"Carolina Hurricanes","Montréal Canadiens",0,0
+564,"St. Louis Blues","Nashville Predators",0,0
+565,"Minnesota Wild","Dallas Stars",0,0
+566,"Winnipeg Jets","Edmonton Oilers",0,0
+567,"Colorado Avalanche","Arizona Coyotes",0,0
+568,"Anaheim Ducks","Vegas Golden Knights",0,0
+569,"Washington Capitals","Boston Bruins",1,1
+570,"Tampa Bay Lightning","Montréal Canadiens",0,0
+571,"Florida Panthers","Philadelphia Flyers",0,0
+572,"Arizona Coyotes","Toronto Maple Leafs",0,0
+573,"Vancouver Canucks","Chicago Blackhawks",0,0
+574,"Los Angeles Kings","Vegas Golden Knights",1,0
+575,"San Jose Sharks","Calgary Flames",1,1
+576,"New Jersey Devils","Buffalo Sabres",1,0
+577,"Ottawa Senators","Columbus Blue Jackets",0,0
+578,"Detroit Red Wings","New York Rangers",1,1
+579,"Tampa Bay Lightning","Philadelphia Flyers",0,0
+580,"Carolina Hurricanes","Pittsburgh Penguins",0,0
+581,"Minnesota Wild","Nashville Predators",0,0
+582,"Winnipeg Jets","New York Islanders",0,0
+583,"Dallas Stars","St. Louis Blues",0,0
+584,"Colorado Avalanche","Toronto Maple Leafs",1,0
+585,"Edmonton Oilers","Chicago Blackhawks",1,0
+586,"Anaheim Ducks","Calgary Flames",0,0
+587,"Ottawa Senators","Boston Bruins",0,0
+588,"Florida Panthers","Montréal Canadiens",0,0
+589,"Washington Capitals","New Jersey Devils",0,0
+590,"St. Louis Blues","Carolina Hurricanes",0,0
+591,"Nashville Predators","Minnesota Wild",0,0
+592,"Vancouver Canucks","Los Angeles Kings",0,0
+593,"Vegas Golden Knights","Toronto Maple Leafs",0,0
+594,"Columbus Blue Jackets","Tampa Bay Lightning",0,0
+595,"Detroit Red Wings","Pittsburgh Penguins",0,0
+596,"Dallas Stars","San Jose Sharks",0,0
+597,"Colorado Avalanche","New York Islanders",0,0
+598,"Anaheim Ducks","Arizona Coyotes",0,0
+599,"Calgary Flames","Chicago Blackhawks",1,0
+600,"Edmonton Oilers","Winnipeg Jets",0,0
+601,"Buffalo Sabres","New York Rangers",1,0
+602,"Toronto Maple Leafs","Tampa Bay Lightning",0,0
+603,"New York Islanders","Boston Bruins",0,0
+604,"Philadelphia Flyers","Pittsburgh Penguins",0,0
+605,"Carolina Hurricanes","Washington Capitals",1,0
+606,"Montréal Canadiens","San Jose Sharks",0,0
+607,"St. Louis Blues","New Jersey Devils",1,1
+608,"Minnesota Wild","Florida Panthers",0,0
+609,"Dallas Stars","Columbus Blue Jackets",0,0
+610,"Colorado Avalanche","Winnipeg Jets",1,0
+611,"Edmonton Oilers","Los Angeles Kings",0,0
+612,"Vancouver Canucks","Anaheim Ducks",0,0
+613,"Vegas Golden Knights","Nashville Predators",0,0
+614,"Detroit Red Wings","Ottawa Senators",1,0
+615,"New York Rangers","Chicago Blackhawks",0,0
+616,"Boston Bruins","Florida Panthers",0,0
+617,"Toronto Maple Leafs","San Jose Sharks",1,1
+618,"Philadelphia Flyers","New York Islanders",0,0
+619,"Pittsburgh Penguins","Carolina Hurricanes",0,0
+620,"Montréal Canadiens","Tampa Bay Lightning",1,1
+621,"St. Louis Blues","Vegas Golden Knights",0,0
+622,"Minnesota Wild","Buffalo Sabres",0,0
+623,"Dallas Stars","New Jersey Devils",0,0
+624,"Colorado Avalanche","Columbus Blue Jackets",0,0
+625,"Calgary Flames","Los Angeles Kings",0,0
+626,"Edmonton Oilers","Anaheim Ducks",1,1
+627,"Arizona Coyotes","Nashville Predators",1,0
+628,"New York Islanders","Pittsburgh Penguins",0,0
+629,"Ottawa Senators","San Jose Sharks",1,0
+630,"Detroit Red Wings","Florida Panthers",0,0
+631,"Winnipeg Jets","Buffalo Sabres",0,0
+632,"Chicago Blackhawks","Vegas Golden Knights",0,0
+633,"Philadelphia Flyers","St. Louis Blues",0,0
+634,"Dallas Stars","Edmonton Oilers",0,0
+635,"Colorado Avalanche","Minnesota Wild",0,0
+636,"Boston Bruins","Carolina Hurricanes",0,0
+637,"Toronto Maple Leafs","Vancouver Canucks",1,1
+638,"Ottawa Senators","Tampa Bay Lightning",0,0
+639,"Arizona Coyotes","New York Rangers",1,1
+640,"Calgary Flames","Anaheim Ducks",0,0
+641,"Los Angeles Kings","Nashville Predators",0,0
+642,"New York Islanders","New Jersey Devils",1,1
+643,"Philadelphia Flyers","Buffalo Sabres",0,0
+644,"Washington Capitals","St. Louis Blues",1,0
+645,"Chicago Blackhawks","Edmonton Oilers",0,0
+646,"Winnipeg Jets","San Jose Sharks",0,0
+647,"Columbus Blue Jackets","Florida Panthers",1,1
+648,"Montréal Canadiens","Vancouver Canucks",0,0
+649,"Detroit Red Wings","Tampa Bay Lightning",0,0
+650,"Pittsburgh Penguins","Boston Bruins",1,0
+651,"Vegas Golden Knights","New York Rangers",0,0
+652,"Toronto Maple Leafs","Columbus Blue Jackets",1,0
+653,"Buffalo Sabres","Winnipeg Jets",0,0
+654,"Washington Capitals","Vancouver Canucks",0,0
+655,"Ottawa Senators","Chicago Blackhawks",0,0
+656,"Tampa Bay Lightning","Carolina Hurricanes",0,0
+657,"St. Louis Blues","Florida Panthers",0,0
+658,"Nashville Predators","Edmonton Oilers",0,0
+659,"Minnesota Wild","Calgary Flames",1,0
+660,"Toronto Maple Leafs","Ottawa Senators",0,0
+661,"Chicago Blackhawks","Minnesota Wild",0,0
+662,"Buffalo Sabres","Columbus Blue Jackets",0,0
+663,"Washington Capitals","Carolina Hurricanes",0,0
+664,"Tampa Bay Lightning","Calgary Flames",0,0
+665,"Columbus Blue Jackets","Vancouver Canucks",0,0
+666,"Florida Panthers","Calgary Flames",0,0
+667,"Carolina Hurricanes","Washington Capitals",0,0
+668,"Chicago Blackhawks","Winnipeg Jets",0,0
+669,"Arizona Coyotes","Edmonton Oilers",0,0
+670,"New York Rangers","New York Islanders",0,0
+671,"Pittsburgh Penguins","Detroit Red Wings",0,0
+672,"Montréal Canadiens","Boston Bruins",1,1
+673,"New Jersey Devils","Philadelphia Flyers",0,0
+674,"Minnesota Wild","Winnipeg Jets",0,0
+675,"Dallas Stars","Colorado Avalanche",0,0
+676,"Vegas Golden Knights","Edmonton Oilers",1,0
+677,"Los Angeles Kings","Anaheim Ducks",0,0
+678,"San Jose Sharks","Arizona Coyotes",1,0
+679,"Pittsburgh Penguins","New York Rangers",0,0
+680,"Carolina Hurricanes","Calgary Flames",0,0
+681,"Chicago Blackhawks","Detroit Red Wings",0,0
+682,"Minnesota Wild","Vancouver Canucks",1,0
+683,"Boston Bruins","Dallas Stars",1,0
+684,"Colorado Avalanche","Anaheim Ducks",0,0
+685,"Los Angeles Kings","San Jose Sharks",0,0
+686,"Montréal Canadiens","New York Islanders",1,0
+687,"Toronto Maple Leafs","St. Louis Blues",1,0
+688,"New York Islanders","New Jersey Devils",0,0
+689,"New York Rangers","Philadelphia Flyers",0,0
+690,"Detroit Red Wings","Dallas Stars",0,0
+691,"Nashville Predators","Vegas Golden Knights",0,0
+692,"Arizona Coyotes","San Jose Sharks",1,1
+693,"Boston Bruins","Montréal Canadiens",0,0
+694,"Anaheim Ducks","Pittsburgh Penguins",0,0
+695,"New Jersey Devils","Washington Capitals",1,0
+696,"New York Islanders","Boston Bruins",0,0
+697,"New York Rangers","Buffalo Sabres",0,0
+698,"Philadelphia Flyers","Toronto Maple Leafs",1,0
+699,"Columbus Blue Jackets","Dallas Stars",1,1
+700,"Ottawa Senators","St. Louis Blues",0,0
+701,"Tampa Bay Lightning","Vegas Golden Knights",0,0
+702,"Nashville Predators","Arizona Coyotes",1,1
+703,"Colorado Avalanche","San Jose Sharks",0,0
+704,"Los Angeles Kings","Pittsburgh Penguins",0,0
+705,"Florida Panthers","Vegas Golden Knights",1,0
+706,"Washington Capitals","Montréal Canadiens",0,0
+707,"Anaheim Ducks","Los Angeles Kings",0,0
+708,"Buffalo Sabres","Dallas Stars",0,0
+709,"Philadelphia Flyers","New Jersey Devils",0,0
+710,"Colorado Avalanche","New York Rangers",0,0
+711,"Calgary Flames","Winnipeg Jets",1,1
+712,"Montréal Canadiens","Boston Bruins",0,0
+713,"Ottawa Senators","Toronto Maple Leafs",0,0
+714,"Detroit Red Wings","Carolina Hurricanes",0,0
+715,"St. Louis Blues","Arizona Coyotes",0,0
+716,"Nashville Predators","Florida Panthers",0,0
+717,"San Jose Sharks","Pittsburgh Penguins",0,0
+718,"Chicago Blackhawks","New York Islanders",0,0
+719,"Minnesota Wild","Tampa Bay Lightning",0,0
+720,"Edmonton Oilers","Vancouver Canucks",0,0
+721,"Washington Capitals","Philadelphia Flyers",1,0
+722,"Carolina Hurricanes","Vegas Golden Knights",0,0
+723,"Winnipeg Jets","Vancouver Canucks",0,0
+724,"Anaheim Ducks","San Jose Sharks",0,0
+725,"Los Angeles Kings","New York Rangers",0,0
+726,"Toronto Maple Leafs","Colorado Avalanche",0,0
+727,"New Jersey Devils","Detroit Red Wings",0,0
+728,"Minnesota Wild","Ottawa Senators",0,0
+729,"Chicago Blackhawks","Tampa Bay Lightning",0,0
+730,"Calgary Flames","Buffalo Sabres",1,0
+731,"Arizona Coyotes","New York Islanders",1,0
+732,"Boston Bruins","New Jersey Devils",0,0
+733,"Pittsburgh Penguins","Carolina Hurricanes",0,0
+734,"Montréal Canadiens","Colorado Avalanche",0,0
+735,"Detroit Red Wings","Philadelphia Flyers",1,0
+736,"St. Louis Blues","Ottawa Senators",0,0
+737,"Nashville Predators","Tampa Bay Lightning",1,0
+738,"Dallas Stars","Florida Panthers",0,0
+739,"Edmonton Oilers","Buffalo Sabres",0,0
+740,"Vancouver Canucks","Los Angeles Kings",0,0
+741,"Vegas Golden Knights","Columbus Blue Jackets",0,0
+742,"Anaheim Ducks","New York Rangers",0,0
+743,"San Jose Sharks","Winnipeg Jets",1,0
+744,"Chicago Blackhawks","Toronto Maple Leafs",1,0
+745,"Calgary Flames","Los Angeles Kings",1,0
+746,"New Jersey Devils","Nashville Predators",0,0
+747,"Philadelphia Flyers","Tampa Bay Lightning",0,0
+748,"Pittsburgh Penguins","Minnesota Wild",0,0
+749,"Montréal Canadiens","Carolina Hurricanes",0,0
+750,"Ottawa Senators","Boston Bruins",0,0
+751,"Detroit Red Wings","Chicago Blackhawks",0,0
+752,"Florida Panthers","Washington Capitals",0,0
+753,"St. Louis Blues","Colorado Avalanche",0,0
+754,"Dallas Stars","Toronto Maple Leafs",0,0
+755,"Edmonton Oilers","Calgary Flames",1,1
+756,"Arizona Coyotes","Columbus Blue Jackets",0,0
+757,"Vancouver Canucks","Buffalo Sabres",0,0
+758,"Vegas Golden Knights","New York Islanders",0,0
+759,"Anaheim Ducks","Winnipeg Jets",1,1
+760,"San Jose Sharks","New York Rangers",0,0
+761,"Boston Bruins","Anaheim Ducks",0,0
+762,"Buffalo Sabres","New Jersey Devils",0,0
+763,"New York Islanders","Florida Panthers",0,0
+764,"Pittsburgh Penguins","San Jose Sharks",0,0
+765,"Carolina Hurricanes","Ottawa Senators",0,0
+766,"Columbus Blue Jackets","Minnesota Wild",1,1
+767,"St. Louis Blues","Montréal Canadiens",0,0
+768,"Nashville Predators","Chicago Blackhawks",0,0
+769,"Winnipeg Jets","Tampa Bay Lightning",0,0
+770,"Dallas Stars","Los Angeles Kings",0,0
+771,"Calgary Flames","Vegas Golden Knights",0,0
+772,"Vancouver Canucks","Colorado Avalanche",1,0
+773,"Toronto Maple Leafs","New York Islanders",0,0
+774,"Detroit Red Wings","San Jose Sharks",1,1
+775,"Washington Capitals","Philadelphia Flyers",0,0
+776,"Boston Bruins","St. Louis Blues",0,0
+777,"Buffalo Sabres","Florida Panthers",0,0
+778,"New Jersey Devils","Philadelphia Flyers",0,0
+779,"New York Rangers","Toronto Maple Leafs",0,0
+780,"Carolina Hurricanes","Montréal Canadiens",0,0
+781,"Ottawa Senators","Anaheim Ducks",1,0
+782,"Nashville Predators","Los Angeles Kings",0,0
+783,"Winnipeg Jets","Vegas Golden Knights",1,0
+784,"Calgary Flames","Tampa Bay Lightning",0,0
+785,"Edmonton Oilers","Colorado Avalanche",1,0
+786,"Arizona Coyotes","Dallas Stars",0,0
+787,"Vancouver Canucks","Chicago Blackhawks",0,0
+788,"Pittsburgh Penguins","Washington Capitals",0,0
+789,"Carolina Hurricanes","Detroit Red Wings",0,0
+790,"Columbus Blue Jackets","San Jose Sharks",0,0
+791,"Minnesota Wild","Vegas Golden Knights",0,0
+792,"Montréal Canadiens","Anaheim Ducks",0,0
+793,"Philadelphia Flyers","Ottawa Senators",1,1
+794,"Boston Bruins","Toronto Maple Leafs",0,0
+795,"Buffalo Sabres","St. Louis Blues",0,0
+796,"Florida Panthers","Detroit Red Wings",0,0
+797,"New Jersey Devils","Pittsburgh Penguins",0,0
+798,"New York Islanders","Columbus Blue Jackets",0,0
+799,"Winnipeg Jets","Colorado Avalanche",0,0
+800,"Nashville Predators","New York Rangers",0,0
+801,"Dallas Stars","Minnesota Wild",0,0
+802,"Calgary Flames","Chicago Blackhawks",1,0
+803,"Vancouver Canucks","Tampa Bay Lightning",0,0
+804,"Los Angeles Kings","Arizona Coyotes",0,0
+805,"Washington Capitals","Vegas Golden Knights",0,0
+806,"Montréal Canadiens","Ottawa Senators",0,0
+807,"Carolina Hurricanes","San Jose Sharks",0,0
+808,"Toronto Maple Leafs","Anaheim Ducks",0,0
+809,"New York Islanders","Nashville Predators",1,0
+810,"Dallas Stars","New York Rangers",0,0
+811,"Edmonton Oilers","Tampa Bay Lightning",0,0
+812,"Buffalo Sabres","Anaheim Ducks",1,0
+813,"Pittsburgh Penguins","Vegas Golden Knights",0,0
+814,"Carolina Hurricanes","Philadelphia Flyers",1,0
+815,"Columbus Blue Jackets","Washington Capitals",0,0
+816,"Ottawa Senators","New Jersey Devils",0,0
+817,"Detroit Red Wings","Boston Bruins",0,0
+818,"Florida Panthers","Vancouver Canucks",0,0
+819,"St. Louis Blues","Minnesota Wild",0,0
+820,"Winnipeg Jets","Arizona Coyotes",0,0
+821,"Chicago Blackhawks","Calgary Flames",0,0
+822,"Colorado Avalanche","San Jose Sharks",0,0
+823,"Toronto Maple Leafs","Nashville Predators",1,1
+824,"New York Rangers","Boston Bruins",0,0
+825,"Los Angeles Kings","Edmonton Oilers",0,0
+826,"Buffalo Sabres","New York Islanders",0,0
+827,"New Jersey Devils","Calgary Flames",0,0
+828,"Philadelphia Flyers","Montréal Canadiens",0,0
+829,"Ottawa Senators","Nashville Predators",1,0
+830,"Tampa Bay Lightning","Vancouver Canucks",0,0
+831,"St. Louis Blues","Colorado Avalanche",0,0
+832,"Minnesota Wild","Arizona Coyotes",1,0
+833,"Chicago Blackhawks","Dallas Stars",0,0
+834,"San Jose Sharks","Vegas Golden Knights",0,0
+835,"New York Islanders","Detroit Red Wings",1,0
+836,"New York Rangers","Calgary Flames",0,0
+837,"Washington Capitals","Columbus Blue Jackets",0,0
+838,"Florida Panthers","Los Angeles Kings",0,0
+839,"Carolina Hurricanes","Vancouver Canucks",0,0
+840,"Winnipeg Jets","St. Louis Blues",0,0
+841,"Dallas Stars","Pittsburgh Penguins",1,1
+842,"Anaheim Ducks","Edmonton Oilers",0,0
+843,"Boston Bruins","Buffalo Sabres",0,0
+844,"Toronto Maple Leafs","Ottawa Senators",0,0
+845,"Montréal Canadiens","Nashville Predators",1,1
+846,"Tampa Bay Lightning","Los Angeles Kings",0,0
+847,"Carolina Hurricanes","Colorado Avalanche",0,0
+848,"Columbus Blue Jackets","New Jersey Devils",0,0
+849,"Minnesota Wild","Chicago Blackhawks",0,0
+850,"Arizona Coyotes","Philadelphia Flyers",1,1
+851,"San Jose Sharks","Edmonton Oilers",0,0
+852,"Washington Capitals","Detroit Red Wings",1,0
+853,"St. Louis Blues","Pittsburgh Penguins",0,0
+854,"Winnipeg Jets","New York Rangers",0,0
+855,"Dallas Stars","Vancouver Canucks",0,0
+856,"Buffalo Sabres","Colorado Avalanche",0,0
+857,"New Jersey Devils","Boston Bruins",0,0
+858,"New York Islanders","Calgary Flames",0,0
+859,"Vegas Golden Knights","Philadelphia Flyers",0,0
+860,"Anaheim Ducks","San Jose Sharks",1,1
+861,"Toronto Maple Leafs","Tampa Bay Lightning",0,0
+862,"Edmonton Oilers","Florida Panthers",0,0
+863,"Arizona Coyotes","Chicago Blackhawks",0,0
+864,"Boston Bruins","Calgary Flames",0,0
+865,"Buffalo Sabres","Tampa Bay Lightning",0,0
+866,"New York Islanders","Columbus Blue Jackets",0,0
+867,"Philadelphia Flyers","New Jersey Devils",1,1
+868,"Pittsburgh Penguins","Ottawa Senators",0,0
+869,"Carolina Hurricanes","Los Angeles Kings",0,0
+870,"Detroit Red Wings","Anaheim Ducks",0,0
+871,"Nashville Predators","St. Louis Blues",1,0
+872,"Minnesota Wild","New York Rangers",0,0
+873,"Winnipeg Jets","Washington Capitals",1,0
+874,"Vegas Golden Knights","Chicago Blackhawks",0,0
+875,"San Jose Sharks","Arizona Coyotes",0,0
+876,"Toronto Maple Leafs","Columbus Blue Jackets",0,0
+877,"Colorado Avalanche","Montréal Canadiens",0,0
+878,"Vancouver Canucks","Florida Panthers",0,0
+879,"New Jersey Devils","Carolina Hurricanes",0,0
+880,"New York Islanders","New York Rangers",0,0
+881,"Pittsburgh Penguins","Los Angeles Kings",0,0
+882,"Ottawa Senators","Buffalo Sabres",1,0
+883,"Tampa Bay Lightning","Detroit Red Wings",0,0
+884,"Nashville Predators","Calgary Flames",0,0
+885,"Minnesota Wild","Washington Capitals",0,0
+886,"Chicago Blackhawks","Anaheim Ducks",0,0
+887,"Arizona Coyotes","Montréal Canadiens",0,0
+888,"Vegas Golden Knights","Edmonton Oilers",0,0
+889,"San Jose Sharks","Vancouver Canucks",0,0
+890,"Columbus Blue Jackets","Philadelphia Flyers",1,0
+891,"Carolina Hurricanes","New York Islanders",0,0
+892,"Winnipeg Jets","Colorado Avalanche",0,0
+893,"Dallas Stars","St. Louis Blues",0,0
+894,"Buffalo Sabres","Los Angeles Kings",0,0
+895,"Ottawa Senators","New York Rangers",0,0
+896,"Minnesota Wild","Anaheim Ducks",1,1
+897,"Arizona Coyotes","Edmonton Oilers",0,0
+898,"Tampa Bay Lightning","New Jersey Devils",0,0
+899,"Pittsburgh Penguins","Toronto Maple Leafs",0,0
+900,"Vegas Golden Knights","Montréal Canadiens",0,0
+901,"Nashville Predators","Detroit Red Wings",0,0
+902,"Chicago Blackhawks","Washington Capitals",0,0
+903,"Calgary Flames","Florida Panthers",0,0
+904,"Vancouver Canucks","Boston Bruins",0,0
+905,"New York Rangers","Philadelphia Flyers",0,0
+906,"Colorado Avalanche","Edmonton Oilers",0,0
+907,"Carolina Hurricanes","New Jersey Devils",1,0
+908,"Columbus Blue Jackets","Pittsburgh Penguins",0,0
+909,"Detroit Red Wings","Toronto Maple Leafs",0,0
+910,"Winnipeg Jets","Florida Panthers",0,0
+911,"San Jose Sharks","Dallas Stars",0,0
+912,"New York Islanders","Minnesota Wild",0,0
+913,"Buffalo Sabres","Washington Capitals",0,0
+914,"Calgary Flames","Boston Bruins",1,0
+915,"Nashville Predators","Ottawa Senators",0,0
+916,"Chicago Blackhawks","Los Angeles Kings",0,0
+917,"Vegas Golden Knights","Anaheim Ducks",0,0
+918,"Toronto Maple Leafs","Florida Panthers",0,0
+919,"New Jersey Devils","Columbus Blue Jackets",0,0
+920,"Philadelphia Flyers","Montréal Canadiens",1,0
+921,"Washington Capitals","Tampa Bay Lightning",0,0
+922,"Detroit Red Wings","Nashville Predators",0,0
+923,"St. Louis Blues","San Jose Sharks",0,0
+924,"Winnipeg Jets","Los Angeles Kings",0,0
+925,"Edmonton Oilers","Boston Bruins",0,0
+926,"Vancouver Canucks","Colorado Avalanche",1,0
+927,"Chicago Blackhawks","Ottawa Senators",1,1
+928,"Anaheim Ducks","Dallas Stars",0,0
+929,"Vegas Golden Knights","Calgary Flames",0,0
+930,"Toronto Maple Leafs","New York Islanders",1,1
+931,"New Jersey Devils","Minnesota Wild",0,0
+932,"Philadelphia Flyers","Columbus Blue Jackets",0,0
+933,"Montréal Canadiens","New York Rangers",0,0
+934,"Ottawa Senators","Tampa Bay Lightning",0,0
+935,"Detroit Red Wings","Buffalo Sabres",1,0
+936,"Florida Panthers","Washington Capitals",0,0
+937,"Nashville Predators","San Jose Sharks",0,0
+938,"Edmonton Oilers","Colorado Avalanche",1,0
+939,"Arizona Coyotes","Calgary Flames",0,0
+940,"Los Angeles Kings","Dallas Stars",0,0
+941,"New York Rangers","Minnesota Wild",0,0
+942,"Carolina Hurricanes","Pittsburgh Penguins",0,0
+943,"St. Louis Blues","Winnipeg Jets",0,0
+944,"Chicago Blackhawks","San Jose Sharks",0,0
+945,"Vegas Golden Knights","Vancouver Canucks",0,0
+946,"Ottawa Senators","Philadelphia Flyers",0,0
+947,"Calgary Flames","Colorado Avalanche",0,0
+948,"Toronto Maple Leafs","Boston Bruins",0,0
+949,"Montréal Canadiens","Tampa Bay Lightning",1,1
+950,"Detroit Red Wings","Carolina Hurricanes",0,0
+951,"Florida Panthers","Pittsburgh Penguins",0,0
+952,"New Jersey Devils","New York Islanders",0,0
+953,"Washington Capitals","Buffalo Sabres",0,0
+954,"Columbus Blue Jackets","Chicago Blackhawks",0,0
+955,"Dallas Stars","Winnipeg Jets",0,0
+956,"Arizona Coyotes","Anaheim Ducks",0,0
+957,"Los Angeles Kings","Edmonton Oilers",0,0
+958,"Buffalo Sabres","Boston Bruins",0,0
+959,"Nashville Predators","St. Louis Blues",0,0
+960,"New York Rangers","Detroit Red Wings",1,0
+961,"Minnesota Wild","San Jose Sharks",1,0
+962,"Anaheim Ducks","Edmonton Oilers",1,1
+963,"Arizona Coyotes","Vancouver Canucks",0,0
+964,"Columbus Blue Jackets","Washington Capitals",0,0
+965,"Montréal Canadiens","Philadelphia Flyers",1,1
+966,"Tampa Bay Lightning","Toronto Maple Leafs",1,1
+967,"Colorado Avalanche","Vancouver Canucks",0,0
+968,"Los Angeles Kings","Vegas Golden Knights",1,0
+969,"Boston Bruins","Carolina Hurricanes",1,0
+970,"Pittsburgh Penguins","New Jersey Devils",0,0
+971,"Washington Capitals","Ottawa Senators",0,0
+972,"Florida Panthers","Toronto Maple Leafs",1,0
+973,"Minnesota Wild","St. Louis Blues",0,0
+974,"Winnipeg Jets","Nashville Predators",0,0
+975,"Dallas Stars","Calgary Flames",0,0
+976,"Vegas Golden Knights","Los Angeles Kings",0,0
+977,"San Jose Sharks","Edmonton Oilers",0,0
+978,"Montréal Canadiens","New York Islanders",0,0
+979,"Tampa Bay Lightning","Buffalo Sabres",1,0
+980,"St. Louis Blues","Detroit Red Wings",0,0
+981,"Colorado Avalanche","Calgary Flames",0,0
+982,"Vancouver Canucks","New York Rangers",1,0
+983,"Boston Bruins","Pittsburgh Penguins",0,0
+984,"Philadelphia Flyers","Carolina Hurricanes",0,0
+985,"Florida Panthers","New Jersey Devils",0,0
+986,"Dallas Stars","Tampa Bay Lightning",1,0
+987,"Edmonton Oilers","Nashville Predators",0,0
+988,"Arizona Coyotes","Minnesota Wild",0,0
+989,"Los Angeles Kings","Columbus Blue Jackets",0,0
+990,"San Jose Sharks","Chicago Blackhawks",0,0
+991,"New York Islanders","Montréal Canadiens",0,0
+992,"Florida Panthers","Buffalo Sabres",0,0
+993,"Carolina Hurricanes","New Jersey Devils",0,0
+994,"Winnipeg Jets","Detroit Red Wings",0,0
+995,"Colorado Avalanche","Minnesota Wild",0,0
+996,"Calgary Flames","New York Rangers",0,0
+997,"Vancouver Canucks","Nashville Predators",1,0
+998,"Vegas Golden Knights","Ottawa Senators",0,0
+999,"Anaheim Ducks","Columbus Blue Jackets",0,0
+1000,"Tampa Bay Lightning","Philadelphia Flyers",1,1
+1001,"Dallas Stars","St. Louis Blues",1,0
+1002,"Los Angeles Kings","Chicago Blackhawks",0,0
+1003,"Boston Bruins","Montréal Canadiens",1,0
+1004,"Pittsburgh Penguins","New York Islanders",1,0
+1005,"Washington Capitals","Toronto Maple Leafs",0,0
+1006,"Arizona Coyotes","Ottawa Senators",0,0
+1007,"Edmonton Oilers","New York Rangers",0,0
+1008,"Florida Panthers","Philadelphia Flyers",0,0
+1009,"Colorado Avalanche","Nashville Predators",1,0
+1010,"Anaheim Ducks","Chicago Blackhawks",0,0
+1011,"New Jersey Devils","Vegas Golden Knights",0,0
+1012,"Carolina Hurricanes","Winnipeg Jets",0,0
+1013,"Minnesota Wild","Detroit Red Wings",0,0
+1014,"San Jose Sharks","Columbus Blue Jackets",0,0
+1015,"Buffalo Sabres","Toronto Maple Leafs",0,0
+1016,"Pittsburgh Penguins","Calgary Flames",1,0
+1017,"Dallas Stars","Ottawa Senators",1,0
+1018,"Edmonton Oilers","Arizona Coyotes",1,0
+1019,"Vancouver Canucks","New York Islanders",1,0
+1020,"Boston Bruins","Detroit Red Wings",1,0
+1021,"New Jersey Devils","Montréal Canadiens",0,0
+1022,"New York Rangers","Winnipeg Jets",0,0
+1023,"Columbus Blue Jackets","Vegas Golden Knights",0,0
+1024,"Tampa Bay Lightning","Florida Panthers",1,0
+1025,"Nashville Predators","Dallas Stars",0,0
+1026,"Minnesota Wild","Carolina Hurricanes",0,0
+1027,"Chicago Blackhawks","Colorado Avalanche",1,0
+1028,"Anaheim Ducks","Washington Capitals",0,0
+1029,"Buffalo Sabres","Calgary Flames",0,0
+1030,"Philadelphia Flyers","Pittsburgh Penguins",0,0
+1031,"Vancouver Canucks","Arizona Coyotes",0,0
+1032,"Boston Bruins","Philadelphia Flyers",0,0
+1033,"New Jersey Devils","Winnipeg Jets",0,0
+1034,"Columbus Blue Jackets","Colorado Avalanche",1,0
+1035,"Ottawa Senators","Buffalo Sabres",1,1
+1036,"Detroit Red Wings","Vegas Golden Knights",0,0
+1037,"Tampa Bay Lightning","New York Rangers",0,0
+1038,"Florida Panthers","Montréal Canadiens",0,0
+1039,"Nashville Predators","Anaheim Ducks",0,0
+1040,"Chicago Blackhawks","Carolina Hurricanes",0,0
+1041,"Edmonton Oilers","New York Islanders",1,1
+1042,"Los Angeles Kings","Washington Capitals",0,0
+1043,"San Jose Sharks","St. Louis Blues",0,0
+1044,"Columbus Blue Jackets","Detroit Red Wings",0,0
+1045,"Ottawa Senators","Calgary Flames",0,0
+1046,"Dallas Stars","Anaheim Ducks",0,0
+1047,"Vancouver Canucks","Minnesota Wild",0,0
+1048,"Boston Bruins","Chicago Blackhawks",0,0
+1049,"Buffalo Sabres","Vegas Golden Knights",1,1
+1050,"Tampa Bay Lightning","Montréal Canadiens",1,1
+1051,"Philadelphia Flyers","Winnipeg Jets",0,0
+1052,"Colorado Avalanche","Arizona Coyotes",0,0
+1053,"Los Angeles Kings","St. Louis Blues",0,0
+1054,"San Jose Sharks","Washington Capitals",0,0
+1055,"Toronto Maple Leafs","Pittsburgh Penguins",0,0
+1056,"Florida Panthers","New York Rangers",1,1
+1057,"Nashville Predators","New Jersey Devils",1,1
+1058,"Edmonton Oilers","Minnesota Wild",0,0
+1059,"Chicago Blackhawks","Boston Bruins",0,0
+1060,"Calgary Flames","New York Islanders",0,0
+1061,"Pittsburgh Penguins","Dallas Stars",0,0
+1062,"Arizona Coyotes","Vancouver Canucks",0,0
+1063,"New York Rangers","Carolina Hurricanes",0,0
+1064,"Philadelphia Flyers","Vegas Golden Knights",0,0
+1065,"Washington Capitals","Winnipeg Jets",1,0
+1066,"Columbus Blue Jackets","Montréal Canadiens",0,0
+1067,"Florida Panthers","Ottawa Senators",0,0
+1068,"Anaheim Ducks","St. Louis Blues",0,0
+1069,"Los Angeles Kings","Vancouver Canucks",0,0
+1070,"San Jose Sharks","Detroit Red Wings",0,0
+1071,"Carolina Hurricanes","Boston Bruins",0,0
+1072,"Montréal Canadiens","Dallas Stars",0,0
+1073,"Tampa Bay Lightning","Ottawa Senators",0,0
+1074,"Nashville Predators","Winnipeg Jets",0,0
+1075,"Minnesota Wild","Colorado Avalanche",0,0
+1076,"Calgary Flames","Edmonton Oilers",0,0
+1077,"Arizona Coyotes","Los Angeles Kings",1,1
+1078,"Toronto Maple Leafs","Dallas Stars",1,1
+1079,"New York Rangers","Pittsburgh Penguins",1,0
+1080,"Edmonton Oilers","San Jose Sharks",1,0
+1081,"Vegas Golden Knights","New Jersey Devils",0,0
+1082,"Anaheim Ducks","Vancouver Canucks",0,0
+1083,"Buffalo Sabres","Toronto Maple Leafs",0,0
+1084,"New York Islanders","Washington Capitals",0,0
+1085,"Philadelphia Flyers","Columbus Blue Jackets",0,0
+1086,"Montréal Canadiens","Pittsburgh Penguins",0,0
+1087,"Florida Panthers","Boston Bruins",0,0
+1088,"St. Louis Blues","Colorado Avalanche",0,0
+1089,"Winnipeg Jets","Chicago Blackhawks",0,0
+1090,"Arizona Coyotes","Nashville Predators",0,0
+1091,"Los Angeles Kings","Detroit Red Wings",0,0
+1092,"Washington Capitals","New York Islanders",0,0
+1093,"Ottawa Senators","Dallas Stars",1,0
+1094,"Colorado Avalanche","Nashville Predators",0,0
+1095,"Calgary Flames","San Jose Sharks",0,0
+1096,"Anaheim Ducks","Detroit Red Wings",0,0
+1097,"Vegas Golden Knights","Minnesota Wild",0,0
+1098,"Buffalo Sabres","Chicago Blackhawks",0,0
+1099,"Florida Panthers","Edmonton Oilers",0,0
+1100,"Los Angeles Kings","New Jersey Devils",0,0
+1101,"Toronto Maple Leafs","Montréal Canadiens",0,0
+1102,"Tampa Bay Lightning","Boston Bruins",0,0
+1103,"Carolina Hurricanes","Philadelphia Flyers",0,0
+1104,"Columbus Blue Jackets","Ottawa Senators",0,0
+1105,"St. Louis Blues","New York Rangers",1,0
+1106,"Arizona Coyotes","Minnesota Wild",0,0
+1107,"Vancouver Canucks","San Jose Sharks",0,0
+1108,"Colorado Avalanche","Detroit Red Wings",0,0
+1109,"Vegas Golden Knights","Calgary Flames",0,0
+1110,"Tampa Bay Lightning","Edmonton Oilers",0,0
+1111,"New York Islanders","Carolina Hurricanes",0,0
+1112,"Philadelphia Flyers","Washington Capitals",0,0
+1113,"Chicago Blackhawks","St. Louis Blues",1,0
+1114,"Winnipeg Jets","Dallas Stars",0,0
+1115,"Anaheim Ducks","New Jersey Devils",0,0
+1116,"Boston Bruins","Columbus Blue Jackets",1,0
+1117,"Buffalo Sabres","Nashville Predators",0,0
+1118,"Montréal Canadiens","Florida Panthers",0,0
+1119,"Minnesota Wild","Los Angeles Kings",1,0
+1120,"Arizona Coyotes","Calgary Flames",0,0
+1121,"New York Islanders","Pittsburgh Penguins",0,0
+1122,"New York Rangers","Columbus Blue Jackets",0,0
+1123,"Washington Capitals","Dallas Stars",0,0
+1124,"Carolina Hurricanes","Edmonton Oilers",0,0
+1125,"Ottawa Senators","Florida Panthers",0,0
+1126,"Detroit Red Wings","Philadelphia Flyers",1,1
+1127,"Tampa Bay Lightning","Toronto Maple Leafs",0,0
+1128,"Winnipeg Jets","Los Angeles Kings",1,0
+1129,"Chicago Blackhawks","Colorado Avalanche",0,0
+1130,"Vegas Golden Knights","Vancouver Canucks",0,0
+1131,"San Jose Sharks","New Jersey Devils",0,0
+1132,"Buffalo Sabres","Arizona Coyotes",0,0
+1133,"Pittsburgh Penguins","Montréal Canadiens",0,0
+1134,"St. Louis Blues","Boston Bruins",1,0
+1135,"Calgary Flames","Anaheim Ducks",0,0
+1136,"New York Islanders","Tampa Bay Lightning",0,0
+1137,"Philadelphia Flyers","New York Rangers",0,0
+1138,"Carolina Hurricanes","Arizona Coyotes",0,0
+1139,"Columbus Blue Jackets","Florida Panthers",0,0
+1140,"Ottawa Senators","Edmonton Oilers",0,0
+1141,"Detroit Red Wings","Washington Capitals",0,0
+1142,"Nashville Predators","Toronto Maple Leafs",0,0
+1143,"Chicago Blackhawks","Vancouver Canucks",0,0
+1144,"Colorado Avalanche","Los Angeles Kings",0,0
+1145,"San Jose Sharks","Vegas Golden Knights",1,0
+1146,"Buffalo Sabres","Montréal Canadiens",0,0
+1147,"Pittsburgh Penguins","New Jersey Devils",1,0
+1148,"St. Louis Blues","Vancouver Canucks",0,0
+1149,"Winnipeg Jets","Anaheim Ducks",1,0
+1150,"Dallas Stars","Boston Bruins",0,0
+1151,"Colorado Avalanche","Vegas Golden Knights",1,1
+1152,"San Jose Sharks","Calgary Flames",0,0
+1153,"Toronto Maple Leafs","Detroit Red Wings",0,0
+1154,"Montréal Canadiens","Washington Capitals",0,0
+1155,"Ottawa Senators","Carolina Hurricanes",0,0
+1156,"Florida Panthers","Arizona Coyotes",0,0
+1157,"New Jersey Devils","Tampa Bay Lightning",0,0
+1158,"New York Islanders","Chicago Blackhawks",0,0
+1159,"New York Rangers","Buffalo Sabres",0,0
+1160,"Columbus Blue Jackets","St. Louis Blues",0,0
+1161,"Minnesota Wild","Nashville Predators",0,0
+1162,"Edmonton Oilers","Los Angeles Kings",0,0
+1163,"Pittsburgh Penguins","Philadelphia Flyers",1,0
+1164,"Dallas Stars","Vancouver Canucks",0,0
+1165,"Winnipeg Jets","Nashville Predators",1,1
+1166,"Minnesota Wild","Boston Bruins",1,0
+1167,"Edmonton Oilers","Anaheim Ducks",1,0
+1168,"Toronto Maple Leafs","Buffalo Sabres",0,0
+1169,"New York Islanders","Florida Panthers",0,0
+1170,"New York Rangers","Washington Capitals",0,0
+1171,"Carolina Hurricanes","Ottawa Senators",0,0
+1172,"Montréal Canadiens","Detroit Red Wings",0,0
+1173,"Tampa Bay Lightning","Arizona Coyotes",0,0
+1174,"Chicago Blackhawks","San Jose Sharks",1,1
+1175,"Vegas Golden Knights","Colorado Avalanche",0,0
+1176,"Los Angeles Kings","Calgary Flames",0,0
+1177,"New Jersey Devils","Carolina Hurricanes",0,0
+1178,"Ottawa Senators","New York Islanders",0,0
+1179,"Detroit Red Wings","Pittsburgh Penguins",0,0
+1180,"St. Louis Blues","San Jose Sharks",1,0
+1181,"Nashville Predators","Minnesota Wild",1,1
+1182,"Winnipeg Jets","Boston Bruins",1,1
+1183,"Dallas Stars","Philadelphia Flyers",1,0
+1184,"Edmonton Oilers","Columbus Blue Jackets",0,0
+1185,"Vancouver Canucks","Anaheim Ducks",0,0
+1186,"Toronto Maple Leafs","Florida Panthers",0,0
+1187,"Washington Capitals","New York Rangers",1,0
+1188,"Colorado Avalanche","Philadelphia Flyers",0,0
+1189,"Vegas Golden Knights","Arizona Coyotes",0,0
+1190,"Boston Bruins","Tampa Bay Lightning",0,0
+1191,"Buffalo Sabres","Detroit Red Wings",0,0
+1192,"New Jersey Devils","Pittsburgh Penguins",1,0
+1193,"Ottawa Senators","Florida Panthers",1,0
+1194,"Nashville Predators","San Jose Sharks",0,0
+1195,"Minnesota Wild","Dallas Stars",0,0
+1196,"Chicago Blackhawks","Winnipeg Jets",0,0
+1197,"Calgary Flames","Columbus Blue Jackets",0,0
+1198,"Vancouver Canucks","Edmonton Oilers",0,0
+1199,"Los Angeles Kings","Arizona Coyotes",0,0
+1200,"New York Islanders","Toronto Maple Leafs",0,0
+1201,"New York Rangers","Tampa Bay Lightning",0,0
+1202,"Washington Capitals","Carolina Hurricanes",0,0
+1203,"Colorado Avalanche","Chicago Blackhawks",0,0
+1204,"Anaheim Ducks","Los Angeles Kings",1,0
+1205,"Vegas Golden Knights","St. Louis Blues",1,0
+1206,"Boston Bruins","Florida Panthers",0,0
+1207,"Detroit Red Wings","Ottawa Senators",0,0
+1208,"Vancouver Canucks","Columbus Blue Jackets",1,0
+1209,"Toronto Maple Leafs","Winnipeg Jets",0,0
+1210,"New Jersey Devils","New York Islanders",0,0
+1211,"Pittsburgh Penguins","Montréal Canadiens",0,0
+1212,"Carolina Hurricanes","New York Rangers",0,0
+1213,"Nashville Predators","Buffalo Sabres",0,0
+1214,"Dallas Stars","Minnesota Wild",0,0
+1215,"Arizona Coyotes","St. Louis Blues",0,0
+1216,"Calgary Flames","Edmonton Oilers",0,0
+1217,"Vegas Golden Knights","San Jose Sharks",0,0
+1218,"Philadelphia Flyers","Boston Bruins",1,0
+1219,"Tampa Bay Lightning","Nashville Predators",0,0
+1220,"Montréal Canadiens","New Jersey Devils",0,0
+1221,"Pittsburgh Penguins","Washington Capitals",0,0
+1222,"Anaheim Ducks","Colorado Avalanche",1,0
+1223,"Toronto Maple Leafs","Buffalo Sabres",0,0
+1224,"Ottawa Senators","Winnipeg Jets",0,0
+1225,"Florida Panthers","Carolina Hurricanes",0,0
+1226,"St. Louis Blues","Washington Capitals",0,0
+1227,"Minnesota Wild","Edmonton Oilers",0,0
+1228,"Los Angeles Kings","Colorado Avalanche",0,0
+1229,"New Jersey Devils","New York Rangers",0,0
+1230,"New York Islanders","Philadelphia Flyers",0,0

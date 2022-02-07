@@ -62,4 +62,7 @@ for (id in df_2017$gameID) {
 }
 
 # may have to change for your computer
-writ
+write.csv(df_2014, "~/Documents/QSS30/Project/data_2014.csv", row.names = FALSE)
+write.csv(df_2015, "~/Documents/QSS30/Project/data_2015.csv", row.names = FALSE)
+write.csv(df_2016, "~/Documents/QSS30/Project/data_2016.csv", row.names = FALSE)
+write.csv(df_2017, "~/Documents/QSS30/Project/data_2017.csv", row.names = FALSE)

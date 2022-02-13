@@ -1,5 +1,5 @@
 # Author: Darren Colby
-# Date 2/12/2022
+# Date 2/13/2022
 # Purpose: To clean and analyze data on shootoust before and after the NHL's new
 # rule went into effect in the 2015-16 season
 

@@ -46,20 +46,28 @@ games %>%
                fill = factor(shootout))) +
     geom_area(position = "identity") +
     geom_vline(xintercept = 99) +
+    geom_text(x = 99.6,
+              y = 0.47,
+              label = "3-on-3 rule\nadopted") +
     geom_text(x = 100,
-              y = 0.49,
-              label = "NHL implements \n3-on-3 overtime rule") +
+              y = 0.2,
+              color = "white",
+              label = "Overtime") +
+    geom_text(x = 100,
+              y = 0.05,
+              color = "white",
+              label = "Shootout") +
     scale_x_continuous(breaks = seq(95, 101, 1),
                        expand = c(0, 0)) +
     scale_y_continuous(expand = expansion(mult = c(0, 0.7))) +
     scale_fill_manual(values = c("#0f4d19", "#6fc27c")) +
-    labs(title = "NHL games that ended in overtime vs shootouts",
+    labs(title = "NHL game outcomes",
          x = "Season",
          y = "Proportion of all games",
-         caption = "*The 96th season was shorter due to a collective bargaining agreement dispute",
+         caption = "*96th season shorter due to collective bargaining dispute",
          fill = NULL) +
     theme_minimal() +
-    theme(legend.position = "bottom")
+    theme(legend.position = "none")
 
 # Save the plot
-ggsave("figures/figure1.jpg", width = 5, height = 4.25)
+ggsave("figures/figure1.jpg", width = 5.5, height = 4.25)

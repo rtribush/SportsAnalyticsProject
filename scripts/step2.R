@@ -56,6 +56,7 @@ games %>%
     labs(title = "NHL games that ended in overtime vs shootouts",
          x = "Season",
          y = "Proportion of all games",
+         caption = "*The 96th season was shorter due to a collective bargaining agreement dispute",
          fill = NULL) +
     theme_minimal() +
     theme(legend.position = "bottom")

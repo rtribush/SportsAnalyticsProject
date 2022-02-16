@@ -50,39 +50,61 @@ games <- games %>%
 # Figure 1 ----------------------------------------------------------------
 
 games %>%
+
+    # Calculate proportion of overtimes per season
     group_by(season) %>%
     summarise(proportion = mean(as.numeric(overtime)),
               shootout = "Overtime") %>%
+
+    # Calculate proportion of shootouts per season and bind with overtimes
     bind_rows(games %>%
                   group_by(season) %>%
                   summarise(proportion = mean(as.numeric(shootout)),
                             shootout = "Shootout")) %>%
+
+    # Make plot grouped by overtime and shootouts
     ggplot(aes(x = season,
                y = proportion,
                fill = shootout)) +
-    geom_area(position = "identity") +
-    geom_vline(xintercept = 99) +
-    geom_text(x = 99.7,
+
+    # Basically a geom_area, but shows seasons as discrete instead of continuous
+    geom_col(position = "identity",
+             width = 1) +
+
+    # Line and label for when the new rule was adopted
+    geom_vline(xintercept = 98.5) +
+    geom_text(x = 99.2,
               y = 0.47,
               label = "3-on-3 rule\nadopted") +
-    geom_text(x = 101,
-              y = 0.2,
-              color = "white",
-              label = "Overtime") +
-    geom_text(x = 101,
+
+    # Label overtime and shootouts
+    geom_text(x = 100.5,
+              y = 0.19,
+              label = "Overtime",
+              color = "white") +
+    geom_text(x = 100.5,
               y = 0.05,
-              color = "white",
-              label = "Shootout") +
+              label = "Shootout",
+              color = "white") +
+
+    # Fix scales
     scale_x_continuous(breaks = seq(95, 102, 1),
-                       expand = c(0, 0.05)) +
-    scale_y_continuous(expand = expansion(mult = c(0, 0.7))) +
-    scale_fill_manual(values = c("#0f4d19", "#6fc27c")) +
+                       expand = c(-0.001, 0)) +
+    scale_y_continuous(breaks = seq(0, 0.6, 0.1),
+                       expand = expansion(mult = c(0, 0.7))) +
+
+    # Add nice colors
+    scale_fill_manual(values = c("#6fc27c", "#0f4d19")) +
+
+    # Give informative labels
     labs(title = "NHL game outcomes",
          x = "Season",
          y = "Proportion of all games",
          caption = "*96th season shorter due to collective bargaining dispute",
          fill = NULL) +
     theme_minimal() +
+
+    # No legend because the plot is labeled directly
     theme(legend.position = "none")
 
 # Save the plot

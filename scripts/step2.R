@@ -26,46 +26,55 @@ games <- games %>%
                season %in% 201510:201606 ~ 99,
                season %in% 201610:201706 ~ 100,
                season %in% 201710:201806 ~ 101,
-               season >= 2018020001 ~ 102
+               season >= 201810 ~ 102
            ),
 
-           # Add boolean for whether a game goes into overtime
+           # Add dummy variable for whether a game goes into overtime
            overtime = ifelse(currentPeriod > 3, TRUE, FALSE),
+
+           # Make shootout dummy variable
+           shootout = hasShootout,
 
            # Convert game_id to a character string
            game_id = as.character(game_id)) %>%
 
     # Make game_id the first column
-    relocate(game_id, season)
+    relocate(game_id, season) %>%
+
+    # Rename columns
+    rename(home_team = teams.home.team.name, away_team = teams.away.team.name) %>%
+
+    # Subset to relevant variables
+    select(game_id, season, home_team, away_team, overtime, shootout)
 
 # Figure 1 ----------------------------------------------------------------
 
 games %>%
     group_by(season) %>%
-    summarise(proportion = mean(overtime),
+    summarise(proportion = mean(as.numeric(overtime)),
               shootout = "Overtime") %>%
     bind_rows(games %>%
                   group_by(season) %>%
-                  summarise(proportion = mean(hasShootout),
+                  summarise(proportion = mean(as.numeric(shootout)),
                             shootout = "Shootout")) %>%
     ggplot(aes(x = season,
                y = proportion,
-               fill = factor(shootout))) +
+               fill = shootout)) +
     geom_area(position = "identity") +
     geom_vline(xintercept = 99) +
-    geom_text(x = 99.6,
+    geom_text(x = 99.7,
               y = 0.47,
               label = "3-on-3 rule\nadopted") +
-    geom_text(x = 100,
+    geom_text(x = 101,
               y = 0.2,
               color = "white",
               label = "Overtime") +
-    geom_text(x = 100,
+    geom_text(x = 101,
               y = 0.05,
               color = "white",
               label = "Shootout") +
-    scale_x_continuous(breaks = seq(95, 101, 1),
-                       expand = c(0, 0)) +
+    scale_x_continuous(breaks = seq(95, 102, 1),
+                       expand = c(0, 0.05)) +
     scale_y_continuous(expand = expansion(mult = c(0, 0.7))) +
     scale_fill_manual(values = c("#0f4d19", "#6fc27c")) +
     labs(title = "NHL game outcomes",

@@ -7,14 +7,16 @@ output:
     variant: markdown_github
 ---
 
-## Overview
+1. Overview
+
 The files and subdirectories in this directory facilitate reproduction of the 
 results from the paper "Manpower, Overtime, and Shootouts in American 
 professional hockey" by Darren Colby and Rylan Tribush. Before attempting to 
 reproduce these results, R version 4.2.1 or greater and the latest versions of 
 RStudio, the Tidyverse metapackage, and the jsonlite packages must be installed.
 
-## Directory Structure
+2. Directory Structure
+
 This directory contains the following subdirectories:
 
     1. data
@@ -34,7 +36,8 @@ of relative paths and avoid hardcoding filepaths when analysis is conducted on
 a different maching. It also contains a gitignore file, which we used with 
 GitHub.
 
-## Reproducing the Results
+3. Reproducing the Results
+
 To reproduce the results open the project by double clicking on the SportsAnalyticsProject.RProj file, which will open the project in RStudio. 
 Highlight all the code in the step1.R script and run it. Not that this will take
 a while because the script fetches data from every regular season game played in 

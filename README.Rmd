@@ -1,3 +1,12 @@
+---
+title: "README"
+author: "Darren Colby"
+date: February 16, 2022
+output:
+  md_document:
+    variant: markdown_github
+---
+
 ## Overview
 The files and subdirectories in this directory facilitate reproduction of the 
 results from the paper "Manpower, Overtime, and Shootouts in American 

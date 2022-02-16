@@ -1,5 +1,5 @@
 # Author: Darren Colby
-# Date 2/13/2022
+# Date 2/16/2022
 # Purpose: To clean and analyze data on shootoust before and after the NHL's new
 # rule went into effect in the 2015-16 season
 
@@ -11,7 +11,7 @@ library(tidyverse)
 
 games <- read_rds("data/all_games.rds")
 
-# Add variables for season and overtime -----------------------------------
+# Light transformation ----------------------------------------------------
 
 games <- games %>%
 
@@ -25,11 +25,18 @@ games <- games %>%
                season %in% 201410:201506 ~ 98,
                season %in% 201510:201606 ~ 99,
                season %in% 201610:201706 ~ 100,
-               season %in% 201710:201806 ~ 101
+               season %in% 201710:201806 ~ 101,
+               season >= 2018020001 ~ 102
            ),
 
            # Add boolean for whether a game goes into overtime
-           overtime = ifelse(currentPeriod > 3, TRUE, FALSE))
+           overtime = ifelse(currentPeriod > 3, TRUE, FALSE),
+
+           # Convert game_id to a character string
+           game_id = as.character(game_id)) %>%
+
+    # Make game_id the first column
+    relocate(game_id, season)
 
 # Figure 1 ----------------------------------------------------------------
 

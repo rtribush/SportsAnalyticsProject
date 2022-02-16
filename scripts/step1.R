@@ -30,7 +30,7 @@ download_game_data <- function(game_id) {
     # Select columns of interest that are available in for all games
     game_df <- game_df %>%
         select(teams.home.team.name, teams.away.team.name, periods.startTime,
-               currentPeriod)
+               currentPeriod, hasShootout)
 
     # Add a unique ID for each game
     game_df <- game_df %>%

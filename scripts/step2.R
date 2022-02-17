@@ -73,9 +73,16 @@ games %>%
 
     # Line and label for when the new rule was adopted
     geom_vline(xintercept = 98.5) +
-    geom_text(x = 99.2,
-              y = 0.47,
+    geom_text(x = 100.2,
+              y = 0.56,
               label = "3-on-3 rule\nadopted") +
+
+    # Add arrow from text
+    geom_segment(aes(x = 99.7,
+                     y = 0.55,
+                     xend = 98.55,
+                     yend = 0.5),
+                 arrow = arrow()) +
 
     # Label overtime and shootouts
     geom_text(x = 100.5,
@@ -91,7 +98,7 @@ games %>%
     scale_x_continuous(breaks = seq(95, 102, 1),
                        expand = c(-0.001, 0)) +
     scale_y_continuous(breaks = seq(0, 0.6, 0.1),
-                       expand = expansion(mult = c(0, 0.7))) +
+                       expand = expansion(mult = c(0, 0.1))) +
 
     # Add nice colors
     scale_fill_manual(values = c("#6fc27c", "#0f4d19")) +

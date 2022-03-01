@@ -1,5 +1,5 @@
 # Authors: Darren Colby and Rylan Tribush
-# Date: 2/16/2022
+# Date: 3/1/2022
 # Purpose: To import and clean NHL game data for analysis
 
 # Imports -----------------------------------------------------------------
@@ -30,7 +30,7 @@ download_game_data <- function(game_id) {
     # Select columns of interest that are available in for all games
     game_df <- game_df %>%
         select(teams.home.team.name, teams.away.team.name, periods.startTime,
-               currentPeriod, hasShootout)
+               currentPeriod, hasShootout, teams.home.goals, teams.away.goals)
 
     # Add a unique ID for each game
     game_df <- game_df %>%

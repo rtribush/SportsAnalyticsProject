@@ -105,7 +105,7 @@ regulation_goals <- left_join(home_regulation_goals, away_regulation_goals,
 ots <- games %>%
 
     # Filter to overtime games in the first half
-    filter(currentPeriod > 3 & is_first_half == TRUE) %>%
+    filter(currentPeriod > 3 & is_first_half == FALSE) %>%
 
     # Code which team won and whether there was a shootout
     mutate(home_win = as_factor(ifelse(teams.home.goals > teams.away.goals, 1, 0)),

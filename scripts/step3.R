@@ -152,4 +152,4 @@ stargazer(m1, m2,
           dep.var.labels = c("Home team win"),
           covariate.labels = c("Rule change", "Power differential", "
                                Rule change x Power differential"),
-          out = "data/table1.tex")
+          out = "figures/table1.tex")

@@ -53,7 +53,7 @@ games <- games %>%
 home_regulation_goals <- games %>%
 
     # Subset to games in the first half of each season not in overtime
-    filter(is_first_half == TRUE & currentPeriod < 4) %>%
+    filter(is_first_half == TRUE & periods.periodType == "REGULAR") %>%
 
     # Calculate goals for and against each home team
     group_by(teams.home.team.name, season) %>%
@@ -69,7 +69,7 @@ home_regulation_goals <- games %>%
 away_regulation_goals <- games %>%
 
     # Subset to games in the first half of each season not in overtime
-    filter(is_first_half == TRUE & currentPeriod < 4) %>%
+    filter(is_first_half == TRUE & periods.periodType == "REGULAR") %>%
 
     # Calculate goals for and against each home team
     group_by(teams.away.team.name, season) %>%
@@ -105,7 +105,7 @@ regulation_goals <- left_join(home_regulation_goals, away_regulation_goals,
 ots <- games %>%
 
     # Filter to overtime games in the first half
-    filter(currentPeriod > 3 & is_first_half == FALSE) %>%
+    filter(periods.periodType == "OVERTIME" & is_first_half == FALSE) %>%
 
     # Code which team won and whether there was a shootout
     mutate(home_win = as_factor(ifelse(teams.home.goals > teams.away.goals, 1, 0)),
@@ -137,16 +137,19 @@ ots <- games %>%
 
 # Estimate a logistic regression ------------------------------------------
 
-# home wins as dependent variable
-m1 <- glm(home_win ~ post_change + power_diff + post_change*power_diff +
+# Not accounting for power differential
+m1 <- glm(home_win ~ post_change  + home_team,
+          family = binomial(link = "logit"), data = ots)
+
+m2 <- glm(home_win ~ post_change + power_diff + post_change*power_diff +
               home_team, family = binomial(link = "logit"), data = ots)
 
 # table 1 -----------------------------------------------------------------
 
-stargazer(m1,
+stargazer(m1, m2,
           add.lines=list(c('Home team fixed effects', 'Yes','No')),
           keep = c("post_change1", "power_diff", "post_change1:power_diff"),
           dep.var.labels = c("Home team win"),
           covariate.labels = c("Rule change", "Power differential", "
                                Rule change x Power differential"),
-          type = "text")
+          out = "data/table1.tex")

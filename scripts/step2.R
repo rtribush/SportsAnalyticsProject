@@ -1,5 +1,5 @@
 # Author: Darren Colby
-# Date 2/18/2022
+# Date 3/5/2022
 # Purpose: To clean and analyze data on shootoust before and after the NHL's new
 # rule went into effect in the 2015-16 season
 
@@ -143,7 +143,9 @@ games %>%
 
     # Fix scales
     scale_x_continuous(breaks = seq(95, 102, 1),
-                       expand = c(-0.001, 0)) +
+                       expand = c(-0.001, 0),
+                       labels = c("2011-12", "2012-13", "2013-14", "2014-15",
+                                  "2015-16", "2016-17", "2017-18", "2018-19")) +
     scale_y_continuous(breaks = seq(0, 0.6, 0.1),
                        expand = expansion(mult = c(0, 0.1))) +
 
@@ -153,8 +155,8 @@ games %>%
     # Give informative labels
     labs(title = "NHL game outcomes",
          x = "Season",
-         y = "Proportion of all games",
-         caption = "*96th season shorter due to collective bargaining dispute",
+         y = "Proportion of games",
+         caption = "*2012-13 season shorter due to collective bargaining dispute",
          fill = NULL) +
     theme_minimal() +
 
@@ -210,6 +212,11 @@ plot_chisquare <- function(test, title, seasons) {
         labs(title = title,
              x = "Season",
              y = "Difference") +
+
+        # Change the names of the seasons
+        scale_x_discrete(labels = c("2011-12", "2012-13", "2013-14",
+                                      "2014-15", "2015-16", "2016-17",
+                                      "2017-18", "2018-19")) +
 
         # Adds labels to the bars. If bars are negative, labels are below bars,
         # oterwise they are above the bars

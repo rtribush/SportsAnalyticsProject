@@ -1,5 +1,5 @@
 # Author: Darren Colby and Rylan Tribush
-# Date: 3/6/2022
+# Date: 3/9/2022
 # Purpose: To estimate the effect of the NHL's rule change on the probability of
 # the home team winning
 
@@ -147,9 +147,10 @@ m2 <- glm(home_win ~ post_change + power_diff + post_change*power_diff +
 # table 1 -----------------------------------------------------------------
 
 stargazer(m1, m2,
+          title = "Table 2: Logistic regression results",
           add.lines=list(c('Home team fixed effects', 'Yes','Yes')),
           keep = c("post_change1", "power_diff", "post_change1:power_diff"),
           dep.var.labels = c("Home team win"),
           covariate.labels = c("Rule change", "Power differential", "
                                Rule change x Power differential"),
-          out = "figures/table1.tex")
+          out = "figures/table2.html")

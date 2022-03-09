@@ -186,15 +186,16 @@ games %>%
     scale_fill_manual(values = c("#6fc27c", "#0f4d19")) +
 
     # Give informative labels
-    labs(title = "NHL game outcomes",
+    labs(caption = "Figure 1: NHL game outcomes",
          x = "Season",
          y = "Proportion of games",
-         caption = "*2012-13 season shorter due to collective bargaining dispute",
          fill = NULL) +
     theme_minimal() +
 
     # No legend because the plot is labeled directly
-    theme(legend.position = "none")
+    theme(legend.position = "none",
+          plot.caption = element_text(hjust = 0,
+                                      size = 14))
 
 # Save the plot
 ggsave("figures/figure1.jpg", width = 5.5, height = 4.25)
@@ -242,7 +243,7 @@ plot_chisquare <- function(test, title, seasons) {
         # Bar plot
         geom_col(width = 0.98,
                  fill = "red") +
-        labs(title = title,
+        labs(caption = title,
              x = "Season",
              y = "Difference") +
 
@@ -259,7 +260,9 @@ plot_chisquare <- function(test, title, seasons) {
 
         # Add a line to make it easier to see where zero id
         geom_hline(yintercept = 0) +
-        theme_tufte()
+        theme_tufte() +
+        theme(plot.caption = element_text(hjust = 0,
+                                          size = 14))
 
     return(plot)
 
@@ -269,7 +272,7 @@ plot_chisquare <- function(test, title, seasons) {
 # Figure 2 ----------------------------------------------------------------
 
 plot_chisquare(chisquared_1112,
-               "Difference in expected and observed shootouts (seaons 98-99)",
+               "Figure 2: Difference in expected and observed shootouts",
                c(98, 99)) +
     ylim(-30, 30) +
     annotate("text",
@@ -284,7 +287,7 @@ ggsave("figures/figure2.jpg", width = 5.5, height = 3)
 # Figure 3 ----------------------------------------------------------------
 
 plot_chisquare(chisquared_grouped,
-               "Difference in expected and observed shootouts four years before and after the NHL rule change",
+               "Figure 3: Difference in expected and observed shootouts before and after the NHL rule change",
                c("Before the\nrule change", "After the\nrule change")) +
     ylim(-170, 170) +
     annotate("text",
@@ -298,7 +301,7 @@ ggsave("figures/figure3.jpg", width = 5.5, height = 3)
 
 # Figure 4 ----------------------------------------------------------------
 
-plot_chisquare(chisquared_all, "Difference in expected and observed shootouts (seasons 95-102)",
+plot_chisquare(chisquared_all, "Figure 4: Difference in expected and observed shootouts",
                95:102) +
     ylim(-50, 50) +
     annotate("text",

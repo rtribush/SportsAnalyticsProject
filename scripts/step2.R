@@ -1,5 +1,5 @@
 # Author: Darren Colby
-# Date 3/5/2022
+# Date 3/9/2022
 # Purpose: To clean and analyze data on shootoust before and after the NHL's new
 # rule went into effect in the 2015-16 season
 
@@ -7,6 +7,7 @@
 
 library(tidyverse)
 library(ggthemes)
+library(stargazer)
 
 # Load the data -----------------------------------------------------------
 
@@ -91,6 +92,38 @@ games_ot_all <- games %>%
 
     # Select the relevant columns
     select(season, shootout)
+
+# Table 1 -----------------------------------------------------------------
+
+games %>%
+    mutate(season = case_when(
+           season == 95 ~ "2011-12",
+           season == 96 ~ "2012-13",
+           season == 97 ~ "2013-14",
+           season == 98 ~ "2014-15",
+           season == 99 ~ "2015-16",
+           season == 100 ~ "2016-17",
+           season == 101 ~ "2017-18",
+           season == 102 ~ "2018-19"
+    ),
+    Season = season) %>%
+    ungroup() %>%
+    distinct(Season, game_id, overtime, shootout) %>%
+    group_by(Season) %>%
+    summarise(Games = n(),
+              Overtimes = sum(overtime),
+              Shootouts = sum(shootout)) %>%
+    ungroup() %>%
+    mutate('Rule Change' = ifelse(Season %in% c("2015-16", "2016-17",
+                                                "2017-18", "2018-19"),
+                                  "Yes", "No"),
+           'Shootout-to-overtime Ratio' = signif(Shootouts / Overtimes, 3)) %>%
+    ungroup() %>%
+    stargazer(type = "latex",
+              summary = FALSE,
+              rownames = FALSE,
+              title = "Table 1: Summary statistics",
+              out = "data/table1.tex")
 
 # Figure 1 ----------------------------------------------------------------
 

@@ -8,6 +8,7 @@
 library(tidyverse)
 library(ggthemes)
 library(stargazer)
+library(patchwork)
 
 # Load the data -----------------------------------------------------------
 
@@ -286,8 +287,8 @@ ggsave("figures/figure2.jpg", width = 5.5, height = 3)
 
 # Figure 3 ----------------------------------------------------------------
 
-plot_chisquare(chisquared_grouped,
-               "Figure 3: Difference in expected and observed shootouts before and after the NHL rule change",
+p1 <- plot_chisquare(chisquared_grouped,
+               "Figure 3: Difference in expected and observed shootouts",
                c("Before the\nrule change", "After the\nrule change")) +
     ylim(-170, 170) +
     annotate("text",
@@ -296,13 +297,7 @@ plot_chisquare(chisquared_grouped,
              label = paste("p =",
                            as.character(signif(chisquared_grouped$p.value, 2))))
 
-# Save it
-ggsave("figures/figure3.jpg", width = 5.5, height = 3)
-
-# Figure 4 ----------------------------------------------------------------
-
-plot_chisquare(chisquared_all, "Figure 4: Difference in expected and observed shootouts",
-               95:102) +
+p2 <- plot_chisquare(chisquared_all, NULL, 95:102) +
     ylim(-50, 50) +
     annotate("text",
              x = 2,
@@ -310,5 +305,7 @@ plot_chisquare(chisquared_all, "Figure 4: Difference in expected and observed sh
              label = paste("p =",
                            as.character(signif(chisquared_all$p.value, 2))))
 
+p1 + p2
+
 # Save it
-ggsave("figures/figure4.jpg", width = 7, height = 5)
+ggsave("figures/figure3.jpg", width = 10, height = 4)

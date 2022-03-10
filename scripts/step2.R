@@ -291,6 +291,8 @@ p1 <- plot_chisquare(chisquared_grouped,
                "Figure 3: Difference in expected and observed shootouts",
                c("Before the\nrule change", "After the\nrule change")) +
     ylim(-170, 170) +
+    labs(x = "Period") +
+    scale_x_discrete(labels = c("Pre-change", "Post-change")) +
     annotate("text",
              x = 1,
              y = -100,

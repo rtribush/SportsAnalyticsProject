@@ -151,6 +151,6 @@ stargazer(m1, m2,
           add.lines=list(c('Home team fixed effects', 'Yes','Yes')),
           keep = c("post_change1", "power_diff", "post_change1:power_diff"),
           dep.var.labels = c("Home team win"),
-          covariate.labels = c("Rule change", "Power differential", "
-                               Rule change x Power differential"),
-          out = "figures/table2.html")
+          covariate.labels = c("Rule change", "Skill differential", "
+                               Rule change x Skill differential"),
+          out = "figures/table2.tex")

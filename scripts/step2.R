@@ -124,7 +124,7 @@ games %>%
               summary = FALSE,
               rownames = FALSE,
               title = "Table 1: Summary statistics",
-              out = "data/table1.tex")
+              out = "figures/table1.tex")
 
 # Figure 1 ----------------------------------------------------------------
 
@@ -187,8 +187,7 @@ games %>%
     scale_fill_manual(values = c("#6fc27c", "#0f4d19")) +
 
     # Give informative labels
-    labs(caption = "Figure 1: NHL game outcomes",
-         x = "Season",
+    labs(x = "Season",
          y = "Proportion of games",
          fill = NULL) +
     theme_minimal() +
@@ -310,4 +309,4 @@ p2 <- plot_chisquare(chisquared_all, NULL, 95:102) +
 p1 + p2
 
 # Save it
-ggsave("figures/figure3.jpg", width = 10, height = 4)
+ggsave("figures/figure3.jpg", width = 10, height = 5)

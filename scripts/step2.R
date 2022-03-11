@@ -220,7 +220,7 @@ chisquared_all <- chisq.test(games_ot_all$season, games_ot_all$shootout)
 # @param test a chi-squared test
 # @param title a title for the plot
 # @return a ggplot object
-plot_chisquare <- function(test, title, seasons) {
+plot_chisquare <- function(test, seasons) {
 
     # Retrieve the expected and observed number of games in each year
     df1 <- bind_cols(seasons, test$observed[ ,2],
@@ -243,8 +243,7 @@ plot_chisquare <- function(test, title, seasons) {
         # Bar plot
         geom_col(width = 0.98,
                  fill = "red") +
-        labs(caption = title,
-             x = "Season",
+        labs(x = "Season",
              y = "Difference") +
 
         # Change the names of the seasons
@@ -271,9 +270,7 @@ plot_chisquare <- function(test, title, seasons) {
 
 # Figure 2 ----------------------------------------------------------------
 
-plot_chisquare(chisquared_1112,
-               "Figure 2: Difference in expected and observed shootouts",
-               c(98, 99)) +
+plot_chisquare(chisquared_1112, c(98, 99)) +
     ylim(-30, 30) +
     annotate("text",
              x = 1,
@@ -287,8 +284,7 @@ ggsave("figures/figure2.jpg", width = 5.5, height = 3)
 # Figure 3 ----------------------------------------------------------------
 
 p1 <- plot_chisquare(chisquared_grouped,
-               "Figure 3: Difference in expected and observed shootouts",
-               c("Before the\nrule change", "After the\nrule change")) +
+                     c("Before the\nrule change", "After the\nrule change")) +
     ylim(-170, 170) +
     labs(x = "Period") +
     scale_x_discrete(labels = c("Pre-change", "Post-change")) +
@@ -298,7 +294,7 @@ p1 <- plot_chisquare(chisquared_grouped,
              label = paste("p =",
                            as.character(signif(chisquared_grouped$p.value, 2))))
 
-p2 <- plot_chisquare(chisquared_all, NULL, 95:102) +
+p2 <- plot_chisquare(chisquared_all, 95:102) +
     ylim(-50, 50) +
     annotate("text",
              x = 2,

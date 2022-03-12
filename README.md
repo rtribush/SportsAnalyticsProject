@@ -43,6 +43,12 @@
             4.2 step2.R: runs Chi-squared analysis and creates plots and figures
             
             4.3 step3.R: runs logistic regression and creates table2
+            
+        5. .gitignore.txt: list of files to be ignored by Git
+        
+        6. README.md: this document
+        
+        7. SportsAnalyticsProject.RProj; RProj file to enable relative paths
 
 3.  Reproducing the Results
 
@@ -57,4 +63,5 @@
     reproduce the analysis from our paper, and create the same figures
     from our paper, which will be saved in the figures directory. Finally, 
     repeat these steps using the step3.R file, which will run the logistic 
-    regression and generate table 2.
+    regression and generate table 2. Note that reproducing the resulst does not
+    require typing anything.

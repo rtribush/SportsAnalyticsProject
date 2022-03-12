@@ -26,7 +26,7 @@
 
          3. figures: figures and tables from the paper
          
-            3.1 figure1.jpg: digure 1 from the paper
+            3.1 figure1.jpg: figure 1 from the paper
             
             3.2 figure2.jpg: figure 2 from the paper
             

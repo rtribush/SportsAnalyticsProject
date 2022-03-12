@@ -1,6 +1,6 @@
 # Author: Darren Colby
 # Date 3/12/2022
-# Purpose: To clean and analyze data on shootoust before and after the NHL's new
+# Purpose: To clean and analyze data on shootouts before and after the NHL's new
 # rule went into effect in the 2015-16 season
 
 # Imports -----------------------------------------------------------------

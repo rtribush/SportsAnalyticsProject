@@ -10,7 +10,7 @@
 
 2.  Directory Structure
 
-    the structure of our project directory is listed below in the format 
+    The structure of our project directory is listed below in the format 
     directory:description.
 
          1. data: data from the NHL API used in our analysis

@@ -20,7 +20,9 @@
 
          2. documents: miscellaneous documents
          
-            2.1 stats-api.md: documentation for the NHL API
+            2.1 Codebook.pdf: a codebook for the data downloaded from the NHL
+         
+            2.2 stats-api.md: documentation for the NHL API
 
          3. figures: figures and tables from the paper
          

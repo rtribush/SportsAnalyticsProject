@@ -1,5 +1,5 @@
 # Author: Darren Colby and Rylan Tribush
-# Date: 3/9/2022
+# Date: 3/12/2022
 # Purpose: To estimate the effect of the NHL's rule change on the probability of
 # the home team winning
 
@@ -153,4 +153,4 @@ stargazer(m1, m2,
           dep.var.labels = c("Home team win"),
           covariate.labels = c("Rule change", "Skill differential", "
                                Rule change x Skill differential"),
-          out = "figures/table2.tex")
+          out = "figures/table2.html")

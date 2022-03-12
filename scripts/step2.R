@@ -1,5 +1,5 @@
 # Author: Darren Colby
-# Date 3/9/2022
+# Date 3/12/2022
 # Purpose: To clean and analyze data on shootoust before and after the NHL's new
 # rule went into effect in the 2015-16 season
 
@@ -120,11 +120,11 @@ games %>%
                                   "Yes", "No"),
            'Shootout-to-overtime Ratio' = signif(Shootouts / Overtimes, 3)) %>%
     ungroup() %>%
-    stargazer(type = "latex",
+    stargazer(type = "html",
               summary = FALSE,
               rownames = FALSE,
               title = "Table 1: Summary statistics",
-              out = "figures/table1.tex")
+              out = "figures/table1.html")
 
 # Figure 1 ----------------------------------------------------------------
 
